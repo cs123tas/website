@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+	<div class="banner transform__wrapper">
+		<a class="banner__title container" href="index.shtml">
+			<h1>{{page.title}}</h1>
+		</a>
+	</div>
+
+	{% include nav.html %}
+
+	<div class="content container transform__wrapper">
+        {{content}}
+    </div>
+<footer></footer>
+</body>
+</html>

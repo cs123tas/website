@@ -1,0 +1,31 @@
+/*=====================================
+  HOURS
+=====================================*/
+
+td, th {
+  text-align: center;
+  padding: 0.6em 1em;
+}
+
+.hours__current {
+	color: #942729;
+}
+
+.hours__current--active {
+	font-weight: bold;
+}
+
+.hours__time {
+	white-space: nowrap;
+  text-align: left;
+  padding-left: 0.5rem;
+}
+
+.hours__cell--active {
+	font-weight: bold;
+	color: #942729;
+}
+
+.hours {
+  text-align: center;
+}

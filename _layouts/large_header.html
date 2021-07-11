@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+<script src="js/util/circletype.min.js"></script>
+<script src="js/head_large.js" defer></script>
+
+<body>
+	{% include nav.html %}
+	<div class="header transform__wrapper w3-animate-opacity">
+			<div class="header__block"></div>
+			<a class="header__title" href="index.shtml">
+				<h1 class="header__title-h1 header__shadow-grey" id="graphics_title">CSCI 1230</h1>
+				<div class="header__subtitle header__shadow-red" id="graphics_subtitle">INTRODUCTION TO COMPUTER GRAPHICS</div>
+			</a>
+	</div>
+	<div class="content container transform__wrapper">
+        {{content}}
+    </div>
+<footer></footer>
+</body>
+
+</html>

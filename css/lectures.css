@@ -1,0 +1,19 @@
+.lecture-topic {
+    text-align: left;
+}
+
+.lecture-link {
+    margin-right: 0.5em;
+}
+
+.lecture-date {
+  text-align: left;
+}
+
+tr:hover {
+  background-color: dimgrey;
+}
+
+.lecture-link:hover {
+  color: lightsalmon;
+}
