@@ -103,7 +103,7 @@
         help: [
             {
               name: 'Help Session Recordings',
-              link: 'https://docs.google.com/document/d/1A3CFHOMc9XEGFTj16-LdDdltotrWTWNh0jFO768v3yw/edit?usp=sharing',
+            //   link: 'https://docs.google.com/document/d/1A3CFHOMc9XEGFTj16-LdDdltotrWTWNh0jFO768v3yw/edit?usp=sharing',
               desc: 'Recordings of the help sessions'
             },
             {

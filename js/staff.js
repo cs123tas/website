@@ -2,65 +2,60 @@
   var STAFF = {
     head: [
       {
-        image: 'img/staff/spike.jpg',
-        name: 'John "Spike" Hughes',
+        image: 'img/staff/placeholder.jpeg',
+        name: 'Daniel Ritchie',
         title: 'Professor',
-        login: 'jfh'
+        login: 'dritchi1'
       },
       {
-        image: 'img/staff/griffin.jpg',
-        name: 'Griffin Beels',
+        image: 'img/staff/placeholder.jpeg',
+        name: 'Alex Mina',
         title: 'Head TA',
-        login: 'gbeels'
+        login: 'jmina'
       },
       {
-        image: 'img/staff/dylan2020.jpg',
-        name: 'Dylan Tian',
+        image: 'img/staff/placeholder.jpeg',
+        name: 'Caleb Trotz',
         title: 'Head TA',
-        login: 'dtian2'
+        login: 'ctrotz'
       }
     ],
     other: [
       {
-        image: 'img/staff/andrew.jpg',
-        name: 'Andrew Peterson',
-        login: 'apeter10'
+        image: 'img/staff/placeholder.jpeg',
+        name: 'Aalia Habib',
+        login: 'ahabib3'
       },
       {
-        image: 'img/staff/caleb.jpg',
-        name: 'Caleb Trotz',
-        login: 'ctrotz'
+        image: 'img/staff/placeholder.jpeg',
+        name: 'Aparna Natarajan',
+        login: 'anatara7'
       },
       {
-        image: 'img/staff/eric.jpg',
-        name: 'Eric Elliott',
-        login: 'eelliot2'
+        image: 'img/staff/placeholder.jpeg',
+        name: 'Adam Pikielny',
+        login: 'apikieln'
       },
       {
-        image: 'img/staff/maggie.jpg',
-        name: 'Maggie Wu',
-        login: 'mwu27'
+        image: 'img/staff/placeholder.jpeg',
+        name: 'Alana White',
+        login: 'awhite35'
       },
       {
-        image: 'img/staff/giuse2020.jpg',
-        name: 'Giuse Nguyen',
-        login: 'gnguyen4'
+        image: 'img/staff/placeholder.jpeg',
+        name: 'Breese Sherman',
+        login: 'bsherma3'
       },
       {
-        image: 'img/staff/selena.jpg',
-        name: 'Selena Ling',
-        login: 'zling1'
+        image: 'img/staff/placeholder.jpeg',
+        name: 'Junewoo Park',
+        login: 'jpark49'
       },
       {
-        image: 'img/staff/mike2020.jpg',
-        name: 'Michael Cosgrove',
-        login: 'mcosgrov'
-      },
-      {
-        image: 'img/staff/brandon.jpg',
-        name: 'Brandon Li',
-        login: 'bli31'
-      },
+        image: 'img/staff/placeholder.jpeg',
+        name: 'Yuna Hiraide',
+        login: 'yhiraide'
+      }
     ]
   };
 
