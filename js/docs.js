@@ -3,28 +3,18 @@
         course: [
             {
                 name: 'CS1230 Course Syllabus',
-                link: 'https://github.com/cs123tas/docs/blob/master/2020%20Syllabus.pdf',
+                link: 'https://github.com/cs123tas/docs/blob/master/2021/syllabus.md',
                 desc: 'Essential information for students in CS1230.'
             },
             {
                 name: 'CS1230 Collaboration Policy',
-                link: 'https://github.com/cs123tas/docs/blob/master/2020%20Collaboration%20Policy.pdf',
+                link: 'https://github.com/cs123tas/docs/blob/master/2021/2021%20Collaboration%20Policy.pdf',
                 desc: 'Collaboration policy for the course. Please read carefully!'
             },
             {
               name: 'CS1230 Collaboration Policy Form',
-              link: 'https://docs.google.com/forms/d/e/1FAIpQLSfoM_E-YlOp-yvDVDaHX7YacQ2SaAtKOzmXvn7GdqktprXFxA/viewform',
+              link: 'https://forms.gle/A1WaW3BsNjto3Psh7',
               desc: 'Read the collaboration policy before submitting.'
-            },
-            {
-                name: 'CS1234 (Half-Credit) Missive',
-                link: 'https://github.com/cs123tas/docs/blob/master/student_half-credit_missive.pdf',
-                desc: 'Information for students enrolled in the half-credit course CS1234.'
-            },
-            {
-                name: 'CS1230 Handbook',
-                link: 'https://github.com/cs123tas/docs/blob/master/student_guide.pdf',
-                desc: 'More verbose document with many useful tips for the course.'
             },
             {
                 name: 'CS1230 YouTube Channel',
@@ -35,34 +25,34 @@
         support: [
             {
                 name: 'Project Structure Guide',
-                link: 'https://github.com/cs123tas/docs/blob/master/CS1230_Project_Structure_Guide.pdf',
+                link: 'https://github.com/cs123tas/docs/blob/master/2021/CSCI1230_Project_Structure_Guide.pdf',
                 desc: 'An overview of the project structure and which parts relates to each assignment.'
             },
             {
                 name: 'Developing Locally',
-                link: 'https://docs.google.com/document/d/1Ics5ro71Lmm15SQbY1vEsIczB0iDhFfdDBjp3s00znw/edit?usp=sharing',
+                // link: 'https://docs.google.com/document/d/1Ics5ro71Lmm15SQbY1vEsIczB0iDhFfdDBjp3s00znw/edit?usp=sharing',
                 desc: 'A detailed document explaining how to begin developing locally'
             },
             {
                 name: 'Scenefile Docs',
-                link: 'docs/scenefile.pdf',
+                link: 'https://github.com/cs123tas/docs/blob/master/2021/scenefile.pdf',
                 desc: 'The CS1230 scenefile definitions and specs.'
             },
         ],
         reference: [
             {
                 name: 'The CS1230 Guide to OpenGL',
-                link: 'https://github.com/cs123tas/docs/blob/master/OpenGL-Guide.md',
+                link: 'https://github.com/cs123tas/docs/blob/master/2021/OpenGL-Guide.md',
                 desc: ''
             },
             {
                 name: 'How to Use Git/Github Classroom + Gradescope',
-                link: 'https://docs.google.com/document/d/1dSAdzn8AQM1X0EdKjuSeiCbMylvWfK5lzOLGfvQR6SY/edit?usp=sharing',
+                link: 'https://docs.google.com/document/d/1xM0BleQ2ldCXNezKsdBw3pMKhWdzw6RBhBEF-Q864cI/edit?usp=sharing',
                 desc: ''
             },
             {
                 name: 'CS1230 Github Guide',
-                link: 'https://docs.google.com/document/d/10O6_m-b3nb1XZx9ilxzsN4iHK7D0hWjAs030H2AXSjI/edit?usp=sharing',
+                link: 'https://docs.google.com/document/d/1TRZTEoCCdNRWKz-knWz_jeWGjo4O8Q0GVsZbEncqevI/edit?usp=sharing',
                 desc: ''
             },
             {
@@ -74,17 +64,17 @@
         cpp: [
             {
                 name: 'Detecting and Preventing Memory Leaks',
-                link: 'https://github.com/cs123tas/docs/blob/master/memory_leaks.pdf',
+                link: 'https://github.com/cs123tas/docs/blob/master/2021/memory_leaks.pdf',
                 desc: 'Brief document describing how to find memory leaks using Valgrind Memory Analyzer in QtCreator, and how to prevent memory leaks.'
             },
             {
                 name: 'Standard C++ Deductions',
-                link: 'docs/Standard Deductions.pdf',
+                link: 'https://github.com/cs123tas/docs/blob/master/2021/deductions.pdf',
                 desc: 'Things you should avoid doing in your C++ code (that will lose you credit).'
             },
             {
                 name: 'Readability Guide',
-                link: 'https://github.com/cs123tas/docs/blob/master/Readability.md',
+                link: 'https://github.com/cs123tas/docs/blob/master/2021/Readability.md',
                 desc: 'Ways you can style your code for your and your TAs\'s sakes.'
             }
         ],
@@ -96,7 +86,7 @@
             },
             {
                 name: 'Index for book',
-                link: 'docs/book_index.pdf',
+                link: 'https://github.com/cs123tas/docs/blob/master/2021/book_index.pdf',
                 desc: 'An improved index for the book.'
             }
         ],
@@ -108,45 +98,45 @@
             },
             {
                 name: 'Intro to C++ Converting from Java',
-                link: 'https://docs.google.com/presentation/d/1FOBB1-pzl0As3cKD34bOybLULsLMQqsAB9dg8PI2Yrw/edit?usp=sharing',
+                // link: 'https://docs.google.com/presentation/d/1FOBB1-pzl0As3cKD34bOybLULsLMQqsAB9dg8PI2Yrw/edit?usp=sharing',
                 desc: 'Brief introduction to C++.'
             },
             {
                 name: 'Linear Algebra',
-		link: 'https://docs.google.com/presentation/d/1iIR3YfLHFVS_zx6sLXCvwxBJ900FzYYbVx2_8-hcEIU/edit?usp=sharing',
+		// link: 'https://docs.google.com/presentation/d/1iIR3YfLHFVS_zx6sLXCvwxBJ900FzYYbVx2_8-hcEIU/edit?usp=sharing',
 //          link: 'https://docs.google.com/presentation/d/1iIR3YfLHFVS_zx6sLXCvwxBJ900FzYYbVx2_8-hcEIU/edit#slide=id.p'
                 desc: 'Review the linear algebra concepts needed for the course.'
             },
             {
                 name: 'Intermediate C++ Help Session',
-		link: 'https://docs.google.com/presentation/d/18znQEdbfmMuvEr9IBQvNBQPe8QvOUBb_rGy9SkXyanY/edit#slide=id.p',
+		// link: 'https://docs.google.com/presentation/d/18znQEdbfmMuvEr9IBQvNBQPe8QvOUBb_rGy9SkXyanY/edit#slide=id.p',
       //          link: 'https://docs.google.com/presentation/d/1w38Btczy6OVwLo5RFN9F7XSqefFAvawUS8e4BuCuB4w/edit?usp=sharing',
                 // link: 'docs/helpsessions/intermediate.pdf'
                 desc: 'Intermediate help session on C++.'
             },
             {
                 name: 'Software Engineering Help Session',
-		link: 'https://docs.google.com/presentation/d/1SXEiHOTUWh-OiBdwneZByRKIAaK2zWsAB4eFCMkRLCA/edit?usp=sharing',
+		// link: 'https://docs.google.com/presentation/d/1SXEiHOTUWh-OiBdwneZByRKIAaK2zWsAB4eFCMkRLCA/edit?usp=sharing',
       //          link: 'https://docs.google.com/presentation/d/1ayJc2y7Wf8Qw0gUFVqKZHUAbfkfHxTC2hKp60LebjyU/edit?usp=sharing',
                 // link: 'docs/helpsessions/softwareengineering.pdf',
                 desc: 'Software Engineering help session.'
             },
             {
                 name: 'GLSL Help Session',
-		link: 'https://docs.google.com/presentation/d/1YyIdKQ320SS8xt0p0HfAIAIpxal2vTfszErDMwvjeXA/edit?usp=sharing',
+		// link: 'https://docs.google.com/presentation/d/1YyIdKQ320SS8xt0p0HfAIAIpxal2vTfszErDMwvjeXA/edit?usp=sharing',
       //          link: 'https://docs.google.com/presentation/d/1YyIdKQ320SS8xt0p0HfAIAIpxal2vTfszErDMwvjeXA/edit?usp=sharing',
                 // link: 'docs/helpsessions/glsl.pdf',
                 desc: 'Overview of OpenGL pipeline and how to use shaders.'//<br><a id="doc-shader-link" href="https://github.com/cs123tas/docs/blob/master/docShader.txt" target="_blank">doc shader from help session</a>'
             },
             {
                 name: 'Numerical Precision',
-		link: 'https://docs.google.com/presentation/d/1iUNd7piUuVsTzPTZvEsaav5gMfwU4rxnm-HXp9zESHc/edit?usp=sharing',
+		// link: 'https://docs.google.com/presentation/d/1iUNd7piUuVsTzPTZvEsaav5gMfwU4rxnm-HXp9zESHc/edit?usp=sharing',
                 // link: 'docs/helpsessions/numericalprecision.pdf',
                 desc: 'Learn about limited precision when doing math on a computer.'
             },
             {
                 name: 'Advanced C++',
-                link: 'https://docs.google.com/presentation/d/1ogWKQEp68U0JQBxCcZOkzaiI9HA3guo7EyeT5nt-_M8/edit?usp=sharing',
+                // link: 'https://docs.google.com/presentation/d/1ogWKQEp68U0JQBxCcZOkzaiI9HA3guo7EyeT5nt-_M8/edit?usp=sharing',
                 // link: 'docs/helpsessions/advanced.pdf',
                 desc: 'Some more advanced C++ things that weren\'t covered.'
             }
