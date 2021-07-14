@@ -63,7 +63,7 @@
     },
     {
       name: 'Particles',
-      link: 'https://docs.google.com/document/d/15-t3gW92x6Zjo8pfjIlpE8s22-kKli6aEh6WtpVD3EU/edit?usp=sharing',
+      // link: 'https://docs.google.com/document/d/15-t3gW92x6Zjo8pfjIlpE8s22-kKli6aEh6WtpVD3EU/edit?usp=sharing',
       image: 'img/labs/lab08.png',
       desc: 'OpenGL can be used to render to a texture rather than a display. In this lab, you will use this functionality to create cool particle effects.'
     },
