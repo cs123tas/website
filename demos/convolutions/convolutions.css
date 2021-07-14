@@ -1,0 +1,78 @@
+body {
+	max-width: 1200px;
+	margin: 1em auto;
+	text-align: center;
+}
+
+.modules {
+    width: 850px;
+    display: inline-block;
+}
+
+.row {
+    clear: both;
+}
+
+.module {
+	width: 400px;
+	margin-bottom: 1em;
+    margin-top: 1em;
+    vertical-align:top;
+}
+
+.module.left {
+    float: left;
+}
+
+.module.right {
+    float: right;
+}
+
+.ui-widget {
+	margin-top: 0.5em;
+}
+
+#convolutionLink {
+	width: 400px;
+	margin-top: 1em;
+}
+
+#filterSlider {
+  width: 350px;
+  margin-left: 30px;
+  margin-right: auto;
+}
+
+.ui-button {
+    padding: 0.5rem;
+    font-size: 0.8rem;
+}
+
+/*
+.ui-slider {
+    width: 600px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.module {
+	width: 600px;
+	text-align: center;
+	display: inline-block;
+	margin-left: 10px;
+	vertical-align: top;
+}
+
+#productModule {
+	display: inline-block;
+}
+
+canvas {
+    margin-top: 10px;
+}
+
+a
+{
+   color: #555555;
+   text-decoration: none;
+}*/
