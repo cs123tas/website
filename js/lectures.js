@@ -76,7 +76,7 @@
      },
     {
       date: '9/30',
-      topic: 'Material and illumiation models',
+      topic: 'Material and illumination models',
     //    links: {
     //    	 'PPTX': 'https://drive.google.com/file/d/1v2FZsZBAf7MtzwQ_bTJutsq5mWsaTRe5/view?usp=sharing'
    	// //Originally Shapes and IP 1 today, but Spike changed plans.
@@ -109,7 +109,7 @@
     },
     {
       date: '10/12',
-      topic: 'Spatial data structures & raytracinga acceleration',
+      topic: 'Spatial data structures & raytracing acceleration',
   //      links: {
 	// 'Recording' : 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a7d360f-2065-45b6-bb9b-ac5401583079',
   //        'PPTX': 'https://drive.google.com/file/d/1bRU833ysCM_tjaWBRNV4Ove45LyxYQib/view?usp=sharing',
