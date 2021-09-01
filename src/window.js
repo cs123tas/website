@@ -247,33 +247,6 @@ function open_window_viewer(options){
 			}
 		}
 	}
-
-	fetch(options.contentsFile).then((response)=> {
-		response.text().then((hhc)=> {
-			$($.parseHTML(hhc)).filter("ul").children().get().forEach((li)=> {
-				renderItem(li, null);
-			});
-		}, (error)=> {
-			show_error_message(`${localize("Failed to launch help.")} Failed to read ${options.contentsFile}.`, error);
-		});
-	}, (/* error */)=> {
-		// access to error message is not allowed either, basically
-		if (location.protocol === "file:") {
-			const $w = $FormToolWindow().title(localize("Paint")).addClass("dialogue-window");
-			$w.$main.html(`
-				<p>${localize("Failed to launch help.")}</p>
-				<p>This feature is not available when running from the <code>file:</code> protocol.</p>
-				<p>To use this feature, start a web server. If you have Python, you can use <code>python -m SimpleHTTPServer</code></p>
-			`);
-			$w.$main.css({maxWidth: "500px"});
-			$w.$Button(localize("OK"), () => {
-				$w.close();
-			});
-			$w.center();
-		} else {
-			show_error_message(`${localize("Failed to launch help.")} ${localize("Access to %1 was denied.", options.contentsFile)}`);
-		}
-	});
 	
 	// @TODO: keyboard accessability
 	// $help_window.on("keydown", (e)=> {

@@ -16,13 +16,14 @@ let return_to_magnification = 4;
 
 var background = new Image();
 background.src = "img/home.png";
+background.crossOrigin = "Anonymous";
 
 const canvas = make_canvas();
 canvas.classList.add("main-canvas");
 const ctx = canvas.ctx;
 
 background.onload = (() => {
-	ctx.drawImage(background, 0, 0);
+	open_from_Image(background);
 })
 
 const default_palette = [
