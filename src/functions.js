@@ -938,8 +938,8 @@ let $latest_news = $this_version_news;
 // "Showing the news as of this version of JS Paint. For the latest, see <a href='https://jspaint.app'>jspaint.app</a>"
 if (location.origin !== "https://jspaint.app") {
 	$this_version_news.prepend(
-		$("<p>For the latest news, visit <a href='https://jspaint.app'>jspaint.app</a></p>")
-		.css({padding: "8px 15px"})
+//		$("<p>For the latest news, visit <a href='https://jspaint.app'>jspaint.app</a></p>")
+//		.css({padding: "8px 15px"})
 	);
 }
 
@@ -1050,9 +1050,8 @@ function show_news(){
 	if($news_window){
 		$news_window.close();
 	}
-	$news_window = $ToolWindow().title("Project News");
+	$news_window = $MinimizeWindow().title("Course Calendar");
 	$news_window.addClass("news-window squish");
-
 
 	// const $latest_entries = $latest_news.find(".news-entry");
 	// const latest_entry = $latest_entries[$latest_entries.length - 1];
