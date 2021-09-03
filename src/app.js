@@ -1582,3 +1582,4 @@ $G.on("blur", () => {
 	$G.triggerHandler("pointerup");
 });
 
+show_news()
