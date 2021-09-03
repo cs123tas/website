@@ -2,19 +2,19 @@
   var STAFF = {
     head: [
       {
-        image: 'img/staff/placeholder.jpeg',
+        image: 'img/staff/daniel.jpg',
         name: 'Daniel Ritchie',
         title: 'Professor',
         login: 'dritchi1'
       },
       {
-        image: 'img/staff/placeholder.jpeg',
+        image: 'img/staff/alex.jpg',
         name: 'Alex Mina',
         title: 'Head TA',
         login: 'jmina'
       },
       {
-        image: 'img/staff/placeholder.jpeg',
+        image: 'img/staff/caleb.jpg',
         name: 'Caleb Trotz',
         title: 'Head TA',
         login: 'ctrotz'
@@ -27,34 +27,34 @@
         login: 'ahabib3'
       },
       {
-        image: 'img/staff/placeholder.jpeg',
+        image: 'img/staff/aparna.jpg',
         name: 'Aparna Natarajan',
         login: 'anatara7'
       },
       {
-        image: 'img/staff/placeholder.jpeg',
+        image: 'img/staff/adam.jpg',
         name: 'Adam Pikielny',
         login: 'apikieln'
       },
       {
-        image: 'img/staff/placeholder.jpeg',
+        image: 'img/staff/alana.jpg',
         name: 'Alana White',
         login: 'awhite35'
       },
       {
-        image: 'img/staff/placeholder.jpeg',
+        image: 'img/staff/breese.jpg',
         name: 'Breese Sherman',
         login: 'bsherma3'
       },
       {
-        image: 'img/staff/placeholder.jpeg',
+        image: 'img/staff/junewoo.jpg',
         name: 'Junewoo Park',
         login: 'jpark49'
       },
       {
         image: 'img/staff/placeholder.jpeg',
-        name: 'Yuna Hiraide',
-        login: 'yhiraide'
+        name: 'Megan Gessner',
+        login: 'mgessner'
       }
     ]
   };
