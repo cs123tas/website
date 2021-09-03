@@ -30,7 +30,7 @@
             },
             {
                 name: 'Developing Locally',
-                // link: 'https://docs.google.com/document/d/1Ics5ro71Lmm15SQbY1vEsIczB0iDhFfdDBjp3s00znw/edit?usp=sharing',
+                link: 'https://github.com/cs123tas/labs/blob/master/lab00/README.md',
                 desc: 'A detailed document explaining how to begin developing locally'
             },
             {
