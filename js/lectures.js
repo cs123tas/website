@@ -12,7 +12,7 @@
     },
     {
       date: '9/14',
-      topic: '2D graphics & transformations',
+      topic: '2D graphics',
       //  links: {
       //      'Activities' : 'https://docs.google.com/document/d/1s0Bzi8jjDYrwpuyg_p3iVYVdQTmIaZtQF17jh-zbXLk/edit?usp=sharing',
       //      'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=289c9252-0f30-43e2-a554-ac36015ceddc',
@@ -49,7 +49,7 @@
     },
     {
       date: '9/23',
-      topic: '3D transformations & scene graphs',
+      topic: 'Transformations and scene graphs',
   //      links: {
   //        'Activities': 'https://docs.google.com/document/d/1scQ5JU31tQ9jrs6YZx5pwfoHJrPNNWbCSVIfNXgwd0M/edit?usp=sharing',
 	//  'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7d602b8c-841c-485a-8a02-ac3f0158caf2',
