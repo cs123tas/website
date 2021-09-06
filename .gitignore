@@ -19,5 +19,5 @@ node_modules/
 Thumbs.db
 ~*
 
-
+# intellij idea files
 .idea
