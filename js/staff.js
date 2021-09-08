@@ -22,7 +22,7 @@
     ],
     other: [
       {
-        image: 'img/staff/placeholder.jpeg',
+        image: 'img/staff/aalia.jpg',
         name: 'Aalia Habib',
         login: 'ahabib3'
       },
@@ -52,7 +52,7 @@
         login: 'jpark49'
       },
       {
-        image: 'img/staff/placeholder.jpeg',
+        image: 'img/staff/megan.jpg',
         name: 'Megan Gessner',
         login: 'mgessner'
       }
