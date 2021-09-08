@@ -44,45 +44,35 @@
 		<script src="src/theme.js"></script>
 	</head>
 	<body>
-		<div id="about-paint" style="display: none">
-			<h1 id="about-paint-header">
-				<img src="images/icons/32x32.png" width="32" height="32" id="paint-32x32" alt=""/>
-				<span id="jspaint-project-name">JS Paint</span>
-				<small id="jspaint-version" title="expect bugs!">Alpha</small>
-				<button id="view-project-news">View Project News</button>
-			</h1>
-			
-			<div id="maybe-outdated-view-project-news" hidden>
-				<div id="maybe-outdated-line">
-					<div id="outdated" hidden>
-						<div class="on-official-host">
-							There's a new version of JS Paint. <a id="refresh-to-update" href=".">Refresh</a> to get it.
-						</div>
-						<div class="on-third-party-host">
-							This instance of JS Paint is outdated compared to <a href="https://jspaint.app" target="_blank">jspaint.app</a>.
-						</div>
-						<div class="on-dev-host">
-							This version of JS Paint is outdated compared to <a href="https://jspaint.app" target="_blank">jspaint.app</a>.
-						</div>
-					</div>
-					<div id="checking-for-updates" hidden>
-						Checking for updates...
-					</div>
-					<div id="failed-to-check-if-outdated" hidden>
-						Couldn't check for updates.
-						<span class="navigator-offline">You're offline.</span>
-						<span class="navigator-online">JS Paint may be outdated.</span>
-					</div>
-				</div>
-				
+		<div id="about-paint" hidden>
+			<div class="summary">
+				<h3>Welcome to CSCI 1230!</h3>
+				<p>
+					<span style='font-weight: bold;'>Lecture:</span> Tues & Thurs 10:30am -- 11:50am, location TBD (lectures recorded for remote async participants)
+					<br/>
+					<span style='font-weight: bold;'>TA mailing list:</span> <a href='mailto:cs1230tas@cs.brown.edu'>cs1230tas@cs.brown.edu</a>
+					<br/>
+					<span style='font-weight: bold;'>Ed Discussion Board:</span> <a href="https://edstem.org/us/courses/12828">https://edstem.org/us/courses/12828</a>
+				</p>
+				<p>
+
+					This course offers an in-depth exploration of fundamental concepts in 2D and 3D computer graphics. It introduces 2D raster graphics techniques, including rasterization and simple image processing. The bulk of the course is devoted to 3D modeling, geometric transformations, and 3D viewing and rendering. C++ and the graphics library OpenGL are used during the course, as is shader programming on the GPU. The final project is typically a small group project spec'd and implemented by the group to create special effects.
+				</p>
+				<h3>Prerequisites</h3>
+				<p>
+					The official prerequisites for CSCI 1230 are CSCI 0150/0160, CSCI 0170/0180, or CSCI 0190. CSCI 0330, because it uses C, is very helpful but not strictly required. CSCI 0320, for its software design, is additionally helpful but not required. Some familiarity with C++ will be helpful, but help sessions and extra support will be offered to students who don't have any prior C++ experience. Some knowledge of basic linear algebra (i.e., vector and matrix multiplication, dot and cross products) may also be helpful, but none is required or assumed.
+				</p>
 			</div>
-			<p>JS Paint is a web-based remake of MS Paint by <a href="https://isaiahodhner.io/">Isaiah Odhner</a>.</p>
-			<p>Read about the project and <b>extra features</b> on <a href="https://github.com/1j01/jspaint#readme">the README</a>.</p>
-			<p>Request features and report bugs <a href="https://github.com/1j01/jspaint/issues">on GitHub</a>
-			or <a href="mailto:isaiahodhner@gmail.com?subject=JS%20Paint">by email</a>.</p>
-			<p>If you want to support the project &amp; cover domain fees:
-				<a href="https://www.paypal.me/IsaiahOdhner" target="_blank">paypal.me/IsaiahOdhner</a>
-			</p>
+			<style>
+				#about-paint {
+					background: white;
+					color: black;
+				}
+				.summary {
+					padding: 20px;
+					max-width: 563px;
+				}
+			</style>
 		</div>
 		<div id="news" hidden>
 			<div class="news entry">
@@ -508,7 +498,7 @@
 		<script src="src/storage.js"></script>
 		<script src="src/$Component.js"></script>
 		<script src="src/$ToolWindow.js"></script>
-		<script src="src/$MinimizeWindow.js"></script>
+		<script src="src/MinimizeWindow.js"></script>
 		<script src="src/$ToolBox.js"></script>
 		<script src="src/$ColorBox.js"></script>
 		<script src="src/$FontBox.js"></script>

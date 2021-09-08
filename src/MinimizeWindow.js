@@ -105,6 +105,7 @@ function $MinimizeWindow(options){
 		position: "absolute",
 		zIndex: $MinimizeWindow.Z_INDEX++
 	});
+
 	$w.bringToFront = function(){
 		$w.css({
 			zIndex: $MinimizeWindow.Z_INDEX++
@@ -175,12 +176,21 @@ function $MinimizeWindow(options){
 	});
 	// @TODO: restore last focused controls when clicking/mousing down on the window
 
-	$w.applyBounds = () => {
-		$w.css({
-			left: Math.max(0, Math.min(innerWidth - $w.outerWidth(), $w[0].getBoundingClientRect().left)),
-			top: Math.max(0, Math.min(innerHeight - $w.outerHeight(), $w[0].getBoundingClientRect().top)),
-		});
-	};
+	if(options.x && options.y) {
+		$w.applyBounds = () => {
+			$w.css({
+				left: options.x,
+				top: options.y,
+			});
+		};
+	} else {
+		$w.applyBounds = () => {
+			$w.css({
+				left: Math.max(0, Math.min(innerWidth - $w.outerWidth(), $w[0].getBoundingClientRect().left)),
+				top: Math.max(0, Math.min(innerHeight - $w.outerHeight(), $w[0].getBoundingClientRect().top)),
+			});
+		};
+	}
 
 	$w.bringTitleBarOnScreen = () => {
 		// Try to make the titlebar always accessible

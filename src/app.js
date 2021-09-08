@@ -1583,3 +1583,4 @@ $G.on("blur", () => {
 });
 
 show_news()
+show_about_paint()
