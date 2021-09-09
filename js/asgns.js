@@ -7,7 +7,7 @@ var CURRYEAR = '2020';
   var PROJECTS = [
     {
       name: 'Brush',
-      // link: 'handouts/brush/brush_asgn.pdf',
+      link: 'https://github.com/cs123tas/projects/blob/master/brush/README.md',
       image: 'img/projects/brush.gif',
       out: {
         day: 'Thurs',
@@ -24,13 +24,13 @@ var CURRYEAR = '2020';
       //     time: '2:00PM',
       //     link: 'https://docs.google.com/presentation/d/1pnavHOFExTHQ3O5ybKL0hUBVrOcbdEPnjAjfsUrvmDk/edit?usp=sharing'
       // },
-      // algo: {
-      //     day: 'Tues',
-      //     date: '9/14',
-      //     time: '6:00PM',
-      //     link: 'handouts/brush/brush_algo.pdf',
+      algo: {
+          day: 'Wed',
+          date: '9/15',
+          time: '10:00PM',
+          link: 'handouts/brush/brush_algo.pdf',
       //     solutions: 'handouts/brush/brush_algo_solutions-locked.pdf',
-      // },
+      },
   //     recording: {
 	// link: 'https://brown.zoom.us/rec/share/0uDovGmrBx95wHASY3W4ShtBjaddK12G1VwfvQBbqAak_QX09KDOGlgrLsWm1l7n.8d8dViD8FerWe-AO?startTime=1600023312000',
 	// text: 'Brush Gear Up Recording'
