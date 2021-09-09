@@ -3,11 +3,11 @@
     {
       date: '9/9',
       topic: 'Introduction',
-  //     links: {
+      links: {
 	// 'Activities' : 'https://docs.google.com/document/d/1NR-uIpfMy5aRLwnIjR4d38TW3cXCe7b-gNvQsrIFZgY/edit?usp=sharing',
-	// 'Recording' : 'https://brown.zoom.us/rec/share/092otLBEWEEz2nEzIJVWlFMY5oZ8B8sVUJ0nJp5hHt0NUxcxaR4q3mGQFqpwhkpJ.OMS3np3TQSbAbSyS',
-  //       'PPTX ': 'https://drive.google.com/file/d/1ueO_rhgfNR61WqKMaimcz8CK38wbTaUU/view?usp=sharing',
-	//    },
+	'Recording' : 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a17ed3fb-d309-44d3-89ca-ad9c013c8208',
+        'PPTX ': 'https://docs.google.com/presentation/d/1ia9NcjooWYYouuGhK5K85R5VO5fWyY35/',
+	   },
       related: []
     },
     {
