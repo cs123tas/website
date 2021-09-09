@@ -3,7 +3,7 @@
   var LABS = [
     {
         name: 'Getting Set Up for Local Development',
-        // link: 'https://docs.google.com/document/d/1Ics5ro71Lmm15SQbY1vEsIczB0iDhFfdDBjp3s00znw/edit?usp=sharing',
+        link: 'https://github.com/cs123tas/labs/tree/master/lab00',
         image: 'img/labs/lab00.png',
         //Image retrived from "https://www.google.com/search?q=tool+clipart+solid+backgroud&tbm=isch&ved=2ahUKEwj-wML3hOPyAhVNqHIEHWKXDJwQ2-cCegQIABAA&oq=tool+clipart+solid+backgroud&gs_lcp=CgNpbWcQAzoFCAAQgAQ6BggAEAcQHjoECAAQQzoGCAAQCBAeUJndAVjaoAJgoqMCaAJwAHgAgAG7AogBkhOSAQgxNy40LjEuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=UzQyYb7LJM3QytMP4q6y4Ak&bih=912&biw=1920&rlz=1C1RXQR_enUS946US946#imgrc=JVK_ZQr_nbsMcM"
         desc: 'This guide will walk you through the process of setting up Qt/QtCreator and Github Classroom so you can begin working locally on future labs and projects.'
