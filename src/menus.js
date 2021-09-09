@@ -79,8 +79,8 @@ window.menus = {
 		// @TODO: speech recognition: terms that apply to selection
 		{
 			item: localize("&Brush"),
-			//action: ()=> {  },
-			enabled: false,
+			action: ()=> { window.open("https://github.com/cs123tas/projects/blob/master/brush/README.md") },
+			enabled: true,
 			description: localize("Open Brush Assignment."),
 		},
 		{
