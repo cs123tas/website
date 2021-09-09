@@ -126,8 +126,7 @@ window.menus = {
 	[localize("&Labs")]: [
 		{
 			item: localize("&Local Setup"),
-			enabled: True,
-			action: ()=> { window.open("https://github.com/cs123tas/labs/tree/master/lab00"); },
+			enabled: false,
 			description: localize("Open Local Setup lab."),
 		},
 		{
