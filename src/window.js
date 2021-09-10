@@ -266,7 +266,7 @@ function open_window_viewer(options){
 var programs_being_loaded = 0;
 
 function $Iframe(options){
-	var $iframe = $("<iframe allowfullscreen sandbox='allow-same-origin allow-scripts allow-forms allow-pointer-lock allow-modals allow-popups allow-downloads'>");
+	var $iframe = $("<iframe allowfullscreen>");
 	var iframe = $iframe[0];
 
 	var disable_delegate_pointerup = false;
