@@ -133,6 +133,8 @@ window.menus = {
 		{
 			item: localize("&C++ Programming"),
 			enabled: false,
+			// enabled: true,
+			// action: ()=>{window.open("https://github.com/cs123tas/labs/tree/master/lab01")},
 			description: localize("Open C++ Programming lab."),
 		},
 		{
