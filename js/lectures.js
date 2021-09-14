@@ -13,11 +13,11 @@
     {
       date: '9/14',
       topic: '2D graphics',
-      //  links: {
+       links: {
       //      'Activities' : 'https://docs.google.com/document/d/1s0Bzi8jjDYrwpuyg_p3iVYVdQTmIaZtQF17jh-zbXLk/edit?usp=sharing',
-      //      'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=289c9252-0f30-43e2-a554-ac36015ceddc',
-      //    	'PPTX': 'https://drive.google.com/file/d/1YVVKT0Gn01gG8CbSVN5jbbOHT7JQtIWT/view?usp=sharing',
-      //  },
+           'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=41f19ba4-e808-475e-8fdd-ad9c013c824a',
+         	'PPTX': 'https://docs.google.com/presentation/d/1KtLpV6397F-JOicE1e2k7wc2HWW8jA0w/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true',
+       },
       related: []
     },
     {
