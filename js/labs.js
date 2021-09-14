@@ -10,7 +10,7 @@
     },
     {
       name: 'C++ Programming',
-      //link: 'https://github.com/cs123tas/labs/tree/master/lab01',
+      link: 'https://github.com/cs123tas/labs/tree/master/lab01',
       image: 'img/labs/lab01.png',
       //Image retrived from "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrvya7nHbXcAK8mlIRboDaUb8uCR8OqBE31Z7JUDQ1svJvT6NsgNIuMB1KVyMEPQSgEY&usqp=CAU"
       desc: 'In this lab, you will gain familiarity with programming in C++, which is the language you will be using throughout the course.'
