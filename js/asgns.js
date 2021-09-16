@@ -29,7 +29,7 @@ var CURRYEAR = '2020';
           date: '9/15',
           time: '10:00PM',
           link: 'handouts/brush/brush_algo.pdf',
-      //     solutions: 'handouts/brush/brush_algo_solutions-locked.pdf',
+          solutions: 'https://drive.google.com/file/d/1jwu6uOdMJ70F56dbGmcRH8AS_brJrYAn/view?usp=sharing',
       },
   //     recording: {
 	// link: 'https://brown.zoom.us/rec/share/0uDovGmrBx95wHASY3W4ShtBjaddK12G1VwfvQBbqAak_QX09KDOGlgrLsWm1l7n.8d8dViD8FerWe-AO?startTime=1600023312000',
