@@ -25,7 +25,7 @@
       topic: 'Geometry',
       links: {
   //        'Activities' : 'https://docs.google.com/document/d/1ocdyYp1mrWJ_0__BpaUv5JjC9GGlP1HFOdk-58PoBqo/edit?usp=sharing',
-  //        'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=10365a45-2d3f-4842-a159-ac380161c668',
+         'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29b7df1b-0ad8-4551-990f-ad9c013c8264',
 	'PPTX': 'https://docs.google.com/presentation/d/1TeUpbydF48VOHu8OSG8mJYlA8P38ugV_/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true',
        },
       //  related: [
