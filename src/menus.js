@@ -79,7 +79,7 @@ window.menus = {
 		// @TODO: speech recognition: terms that apply to selection
 		{
 			item: localize("&Brush"),
-			action: ()=> { window.open("https://drive.google.com/file/d/1jwu6uOdMJ70F56dbGmcRH8AS_brJrYAn/view?usp=sharing") },
+			action: ()=> { window.open("https://csci1230.graphics/handouts/brush/brush_algo.pdf") },
 			enabled: true,
 			description: localize("Open Brush Assignment."),
 		},
@@ -116,6 +116,51 @@ window.menus = {
 			enabled: false,
 			description: localize("Open Final Project."),
 		},
+		MENU_DIVIDER,
+		{
+			item: localize("&Solutions"),
+			submenu: [
+				{
+					item: localize("&Brush"),
+					action: ()=> { window.open("https://drive.google.com/file/d/1jwu6uOdMJ70F56dbGmcRH8AS_brJrYAn/view?usp=sharing") },
+					enabled: true,
+					description: localize("Open Brush Assignment."),
+				},
+				{
+					item: localize("&Shapes"),
+					// shortcut: "Ctrl+W", // closes browser tab
+					enabled: false,
+					description: localize("Open Shapes Assignment."),
+				},
+				{
+					item: localize("&Intersect"),
+					//shortcut: "Ctrl+I",
+					enabled: false,
+					description: localize("Open Intersect Assignment."),
+				},
+				{
+					item: localize("&Ray"),
+					//shortcut: "Ctrl+E",
+					enabled: false,
+					description: localize("Open Ray Assignment."),
+				},
+				{
+					item: localize("&Sceneview"),
+					enabled: false,
+					description: localize("Open Sceneview Assignment."),
+				},
+				{
+					item: localize("&Filter"),
+					enabled: false,
+					description: localize("Open Filter Assignment."),
+				},
+				{
+					item: localize("&Final"),
+					enabled: false,
+					description: localize("Open Final Project."),
+				},
+				],
+		}
 	],
 	[localize("&Assignments")]: [
 		// @TODO: speech recognition: terms that apply to selection
