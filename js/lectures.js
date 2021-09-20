@@ -6,7 +6,7 @@
       links: {
 	// 'Activities' : 'https://docs.google.com/document/d/1NR-uIpfMy5aRLwnIjR4d38TW3cXCe7b-gNvQsrIFZgY/edit?usp=sharing',
 	'Recording' : 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a17ed3fb-d309-44d3-89ca-ad9c013c8208',
-        'PPTX ': 'https://docs.google.com/presentation/d/1ia9NcjooWYYouuGhK5K85R5VO5fWyY35/',
+        'PPTX ': 'https://docs.google.com/file/d/1ia9NcjooWYYouuGhK5K85R5VO5fWyY35/',
 	   },
       related: []
     },
@@ -16,7 +16,7 @@
        links: {
       //      'Activities' : 'https://docs.google.com/document/d/1s0Bzi8jjDYrwpuyg_p3iVYVdQTmIaZtQF17jh-zbXLk/edit?usp=sharing',
            'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=41f19ba4-e808-475e-8fdd-ad9c013c824a',
-         	'PPTX': 'https://docs.google.com/presentation/d/1KtLpV6397F-JOicE1e2k7wc2HWW8jA0w/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true',
+         	'PPTX': 'https://docs.google.com/file/d/1KtLpV6397F-JOicE1e2k7wc2HWW8jA0w/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true',
        },
       related: []
     },
@@ -25,8 +25,8 @@
       topic: 'Geometry',
       links: {
   //        'Activities' : 'https://docs.google.com/document/d/1ocdyYp1mrWJ_0__BpaUv5JjC9GGlP1HFOdk-58PoBqo/edit?usp=sharing',
-  //        'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=10365a45-2d3f-4842-a159-ac380161c668',
-	'PPTX': 'https://docs.google.com/presentation/d/1TeUpbydF48VOHu8OSG8mJYlA8P38ugV_/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true',
+         'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29b7df1b-0ad8-4551-990f-ad9c013c8264',
+	'PPTX': 'https://docs.google.com/file/d/1TeUpbydF48VOHu8OSG8mJYlA8P38ugV_/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true',
        },
       //  related: [
       //    {
@@ -38,11 +38,12 @@
     {
       date: '9/21',
       topic: 'More geometry',
-  //      links: {
+       links: {
   //        'Activities': 'https://docs.google.com/document/d/1tzLingUcj8vRK4YBvArbhKZHyTOzscwo_QIXrdxbpoM/edit?usp=sharing',
 	// 'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08b9afcd-8d58-4d0f-859e-ac3d0159bcf1',
+        'PPTX': 'https://docs.google.com/file/d/1Tg5q6fgebbPRMfmh5VdjCmjAYg0T70Av/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true'
          
-  //      },
+       },
        related: [
          
        ]
