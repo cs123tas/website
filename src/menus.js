@@ -225,7 +225,8 @@ window.menus = {
 		},
 		{
 			item: localize("&Terrain"),
-			enabled: false,
+			enabled: true,
+			action: () => { window.open("https://github.com/cs123tas/labs/tree/master/lab02") },
 			description: localize("Open Terrain lab."),
 		},
 		{
