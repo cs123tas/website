@@ -40,7 +40,7 @@
       topic: 'More geometry',
        links: {
   //        'Activities': 'https://docs.google.com/document/d/1tzLingUcj8vRK4YBvArbhKZHyTOzscwo_QIXrdxbpoM/edit?usp=sharing',
-	// 'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08b9afcd-8d58-4d0f-859e-ac3d0159bcf1',
+	'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c4514d64-2559-4e8b-bd4d-ad9c013c827a',
         'PPTX': 'https://docs.google.com/file/d/1Tg5q6fgebbPRMfmh5VdjCmjAYg0T70Av/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true'
          
        },
