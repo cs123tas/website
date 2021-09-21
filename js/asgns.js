@@ -3,7 +3,7 @@ var FIRSTDAYOFCLASS = new Date('2020-09-09');
 var CURRYEAR = '2020';
 
 (function() {
-  var ACTIVE_PROJECT = 1;
+  var ACTIVE_PROJECT = 2;
   var PROJECTS = [
     {
       name: 'Brush',
