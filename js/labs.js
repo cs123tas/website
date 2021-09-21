@@ -1,5 +1,5 @@
 (function() {
-  var ACTIVE_LAB = 1;
+  var ACTIVE_LAB = 2;
   var LABS = [
     {
         name: 'Getting Set Up for Local Development',
@@ -17,7 +17,7 @@
     },
     {
       name: 'Terrain',
-    //  link: 'https://docs.google.com/document/d/1eA6NvuJzZKvX7hLASt6mzOf2QYFSc6FRdG55WK8ThgY/edit',
+      link: 'https://github.com/cs123tas/labs/tree/master/lab02',
       image: 'img/labs/lab02.png',
       desc: 'Procedural shape generation is an important tool in computer graphics. You will use a simple algorithm to generate a terrain/mountain range to witness the power of procedural shape generation first hand.'
     },
