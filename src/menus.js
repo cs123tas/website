@@ -85,8 +85,8 @@ window.menus = {
 		},
 		{
 			item: localize("&Shapes"),
-			// shortcut: "Ctrl+W", // closes browser tab
-			enabled: false,
+			action: ()=> { window.open("https://csci1230.graphics/handouts/shapes/shapes_algo.pdf") },
+			enabled: true,
 			description: localize("Open Shapes Assignment."),
 		},
 		{
@@ -172,8 +172,8 @@ window.menus = {
 		},
 		{
 			item: localize("&Shapes"),
-			// shortcut: "Ctrl+W", // closes browser tab
-			enabled: false,
+			action: ()=> { window.open("https://github.com/cs123tas/projects/blob/master/shapes/README.md") },
+			enabled: true,
 			description: localize("Open Shapes Assignment."),
 		},
 		{
