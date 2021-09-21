@@ -39,15 +39,15 @@ var CURRYEAR = '2020';
     },
     {
       name: 'Shapes',
-      // link: 'handouts/shapes/shapes.pdf',
+      link: 'https://github.com/cs123tas/projects/blob/master/shapes/README.md',
       image: 'img/projects/shapes.gif',
       out: {
         day: 'Tues',
         date: '9/21'
       },
       due: {
-          day: 'Tues',
-          date: '10/5',
+          day: 'Mon',
+          date: '10/4',
           time: '10:00PM',
       },
       // gearup: {
@@ -56,13 +56,13 @@ var CURRYEAR = '2020';
       //     time: '3:30PM',
       //     link: 'https://docs.google.com/presentation/d/1WZwDjhDy4OOQSOK-FadityfV0AuPdJFvEXdXNm4Zla8/edit?usp=sharing'
       // },
-      // algo: {
-      //     day: 'Tues',
-      //     date: '9/28',
-      //     time: '6:00PM',
-      //     link: 'handouts/shapes/shapes_algo.pdf',
-      //     solutions: 'handouts/shapes/shapes_algo_solutions-locked.pdf'
-      // },
+      algo: {
+          day: 'Fri',
+          date: '9/24',
+          time: '6:00PM',
+          link: 'handouts/shapes/shapes_algo.pdf',
+          //solutions: 'handouts/shapes/shapes_algo_solutions-locked.pdf'
+      },
 	// recording: {
 	// link: 'https://brown.zoom.us/rec/share/ElVUrDPQCWMgqLrqCaMp7Zrfhci0tIZVA8ZO6syK7QdBTKfkChIuN7od1H2plk5U.B2LHQOmM9w-j7Vr1',
 	// text: 'Shapes Gear Up Recording'
