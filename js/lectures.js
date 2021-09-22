@@ -51,11 +51,11 @@
     {
       date: '9/23',
       topic: 'Transformations and scene graphs',
-  //      links: {
+       links: {
   //        'Activities': 'https://docs.google.com/document/d/1scQ5JU31tQ9jrs6YZx5pwfoHJrPNNWbCSVIfNXgwd0M/edit?usp=sharing',
 	//  'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7d602b8c-841c-485a-8a02-ac3f0158caf2',
-	//  'PPTX': 'https://drive.google.com/file/d/1-NQOdDWlCQPyOYwkEGe2nGqxEtew8deK/view?usp=sharing',
-  //      },
+	 'PPTX': 'https://docs.google.com/file/d/1a9eLbFXzihytedmMsre5NgdHDx2vFHmv/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true',
+       },
   //      related: [
 	// {
   //          name: 'Transformation Game',
