@@ -70,10 +70,11 @@
  	{
       date: '9/28',
       topic: 'Camera models & viewing transforms',
-    //    links: {
-    //    	 'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ae39cde-16b1-4fe3-a349-ac4601242408',
+       links: {
+         'PPTX': 'https://docs.google.com/file/d/1XdaXiQYPNUpG4IapIEb6_6UzW-tK4Ehc/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true'
+       	//  'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ae39cde-16b1-4fe3-a349-ac4601242408',
    	// //Originally Shapes and IP 1 today, but Spike changed plans.
-    //    },
+       },
      },
     {
       date: '9/30',
