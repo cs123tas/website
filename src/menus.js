@@ -128,8 +128,9 @@ window.menus = {
 				},
 				{
 					item: localize("&Shapes"),
+					action: ()=> { window.open("/handouts/shapes/shapes_algo_solutions.pdf") },
 					// shortcut: "Ctrl+W", // closes browser tab
-					enabled: false,
+					enabled: true,
 					description: localize("Open Shapes Assignment."),
 				},
 				{

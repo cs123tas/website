@@ -61,7 +61,7 @@ var CURRYEAR = '2020';
           date: '9/24',
           time: '6:00PM',
           link: 'handouts/shapes/shapes_algo.pdf',
-          //solutions: 'handouts/shapes/shapes_algo_solutions-locked.pdf'
+          solutions: 'handouts/shapes/shapes_algo_solutions.pdf'
       },
 	// recording: {
 	// link: 'https://brown.zoom.us/rec/share/ElVUrDPQCWMgqLrqCaMp7Zrfhci0tIZVA8ZO6syK7QdBTKfkChIuN7od1H2plk5U.B2LHQOmM9w-j7Vr1',
