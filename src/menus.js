@@ -232,7 +232,8 @@ window.menus = {
 		},
 		{
 			item: localize("&Transformations & Scene Graphs"),
-			enabled: false,
+			enabled: true,
+			action: () => { window.open("https://github.com/cs123tas/labs/tree/master/lab03") },
 			description: localize("Open Transformations & Scene Graphs lab."),
 		},
 		{
