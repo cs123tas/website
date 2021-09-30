@@ -71,8 +71,8 @@
       date: '9/28',
       topic: 'Camera models & viewing transforms',
        links: {
-         'PPTX': 'https://docs.google.com/file/d/1XdaXiQYPNUpG4IapIEb6_6UzW-tK4Ehc/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true',
-       	 'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=abca5da9-211d-4fb8-bc57-ad9c013c82a6',
+        'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=abca5da9-211d-4fb8-bc57-ad9c013c82a6',
+         'PPTX': 'https://docs.google.com/file/d/1XdaXiQYPNUpG4IapIEb6_6UzW-tK4Ehc/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true'
    	// //Originally Shapes and IP 1 today, but Spike changed plans.
        },
      },
@@ -80,6 +80,7 @@
       date: '9/30',
       topic: 'Material and illumination models',
        links: {
+        'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1f677f45-91e8-4f59-ae0f-ad9c013c82be',
        	 'PPTX': 'https://docs.google.com/file/d/1Tn4VrF5OUWNCpElDunNAtucc31IXOhEu/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true'
    	// //Originally Shapes and IP 1 today, but Spike changed plans.
        },
