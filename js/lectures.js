@@ -79,10 +79,10 @@
     {
       date: '9/30',
       topic: 'Material and illumination models',
-    //    links: {
-    //    	 'PPTX': 'https://drive.google.com/file/d/1v2FZsZBAf7MtzwQ_bTJutsq5mWsaTRe5/view?usp=sharing'
+       links: {
+       	 'PPTX': 'https://docs.google.com/file/d/1Tn4VrF5OUWNCpElDunNAtucc31IXOhEu/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true'
    	// //Originally Shapes and IP 1 today, but Spike changed plans.
-    //    },
+       },
      },
     {
       date: '10/5',
