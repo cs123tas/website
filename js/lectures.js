@@ -88,11 +88,11 @@
     {
       date: '10/5',
       topic: 'Raytracing',
-  //      links: {
+       links: {
   //        'Activities': 'https://docs.google.com/document/d/1zgoLcs-9bPN4VHhog0NmAOO3oH_CGnCTkvum1YXfA6Y/edit?usp=sharing',
   //        'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ee32b5e5-79bf-4252-9253-ac4b015a5605',
-	//  'PPTX' : 'https://drive.google.com/file/d/1J5XQ3SFRB0fjFtPBaHFeBDhRJ3cT67_l/view?usp=sharing'
-  //      },
+	 'PPTX' : 'https://docs.google.com/file/d/1Tnk778VP_ckeu239oM13Pov1493YGPhp/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true'
+       },
       //  related: [
       //    {
       //      name: 'Discrete Fourier',
