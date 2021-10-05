@@ -3,7 +3,7 @@ var FIRSTDAYOFCLASS = new Date('2020-09-09');
 var CURRYEAR = '2020';
 
 (function() {
-  var ACTIVE_PROJECT = 2;
+  var ACTIVE_PROJECT = 3;
   var PROJECTS = [
     {
       name: 'Brush',
@@ -72,7 +72,7 @@ var CURRYEAR = '2020';
     },
     {
       name: 'Intersect',
-      // link:  'handouts/intersect/intersect_asgn.pdf',
+      link:  'https://github.com/cs123tas/projects/blob/master/scenegraph/README.md',
       image: 'img/projects/intersect.gif',
       out: {
         day: 'Tues',
@@ -98,13 +98,13 @@ var CURRYEAR = '2020';
 	// text: 'Gear-up Recording'
 	// },
 
-      // algo: {
-      //    link: 'handouts/intersect/intersect_algo.pdf',
-      //    day: 'Tues',
-      //    date: '10/12',
-      //    time: '6:00PM',
-      //    solutions: 'handouts/intersect/intersect_algo_solutions-locked.pdf'
-      //  },
+      algo: {
+         link: 'handouts/intersect/intersect_algo.pdf',
+         day: 'Fri',
+         date: '10/8',
+         time: '6:00PM',
+//          solutions: 'handouts/intersect/intersect_algo_solutions-locked.pdf'
+       },
       desc: 'In this assignment, you will begin to write to your own rendering engine (to e.g. render your shapes from the Shapes assignment). You will shoot out rays from the eye of a camera and calculate intersections with primitives in a scene using their implicit equations. This will be the first step in writing a full fledged ray tracer. This project relies on the Shape assignment.'
     },
     {
