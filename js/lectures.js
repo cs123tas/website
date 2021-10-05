@@ -90,7 +90,7 @@
       topic: 'Raytracing',
        links: {
   //        'Activities': 'https://docs.google.com/document/d/1zgoLcs-9bPN4VHhog0NmAOO3oH_CGnCTkvum1YXfA6Y/edit?usp=sharing',
-  //        'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ee32b5e5-79bf-4252-9253-ac4b015a5605',
+         'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d75d0dd6-de0c-4e3e-bf9c-ad9c013c82d5',
 	 'PPTX' : 'https://docs.google.com/file/d/1Tnk778VP_ckeu239oM13Pov1493YGPhp/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true'
        },
       //  related: [
