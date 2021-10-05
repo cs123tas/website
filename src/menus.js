@@ -91,8 +91,8 @@ window.menus = {
 		},
 		{
 			item: localize("&Intersect"),
-			//shortcut: "Ctrl+I",
-			enabled: false,
+			action: ()=> { window.open("https://csci1230.graphics/handouts/intersect/intersect_algo.pdf") },
+			enabled: true,
 			description: localize("Open Intersect Assignment."),
 		},
 		{
@@ -179,7 +179,7 @@ window.menus = {
 		},
 		{
 			item: localize("&Intersect"),
-			//shortcut: "Ctrl+I",
+			action: ()=> { window.open("https://github.com/cs123tas/projects/blob/master/scenegraph/README.md") },
 			enabled: false,
 			description: localize("Open Intersect Assignment."),
 		},
