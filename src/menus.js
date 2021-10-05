@@ -136,7 +136,7 @@ window.menus = {
 				{
 					item: localize("&Intersect"),
 					//shortcut: "Ctrl+I",
-					enabled: false,
+					enabled: true,
 					description: localize("Open Intersect Assignment."),
 				},
 				{
