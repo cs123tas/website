@@ -1,5 +1,5 @@
 (function() {
-  var ACTIVE_LAB = 2;
+  var ACTIVE_LAB = 4;
   var LABS = [
     {
         name: 'Getting Set Up for Local Development',
@@ -30,7 +30,7 @@
     },
     {
       name: 'Introduction to Maya',
-      // link: 'https://docs.google.com/document/d/1gMoCA7Me50Za5_iu_7glBvh6iVqP54wIIa1oMf_4JQI/edit?usp=sharing',
+      link: 'https://github.com/cs123tas/labs/tree/master/lab04',
        image: 'img/labs/lab04.jpg',
        //Image retrived from "https://cdn.flippednormals.com/wp-content/uploads/2020/04/01173019/introToMaya_gallery12.png"
       desc: 'In this lab, you will learn how the basics of Autodesk Maya, an industry-standard 3D software package. You will learn how to create objects, apply transformations, create materials and lights, and render images. These skills may come in handy for your final project!'
