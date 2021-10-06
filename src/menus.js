@@ -238,7 +238,8 @@ window.menus = {
 		},
 		{
 			item: localize("&Introduction to Maya"),
-			enabled: false,
+			enabled: true,
+			action: () => { window.open("https://github.com/cs123tas/labs/tree/master/lab04") };
 			description: localize("Open Introduction to Maya lab."),
 		},
 		{
