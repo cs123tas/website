@@ -180,7 +180,7 @@ window.menus = {
 		{
 			item: localize("&Intersect"),
 			action: ()=> { window.open("https://github.com/cs123tas/projects/blob/master/scenegraph/README.md") },
-			enabled: false,
+			enabled: true,
 			description: localize("Open Intersect Assignment."),
 		},
 		{
