@@ -104,7 +104,7 @@
       date: '10/7',
       topic: 'Spatial data structures & raytracing acceleration',
        links: {
-	// 'Recording' : 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a7d360f-2065-45b6-bb9b-ac5401583079',
+	'Recording' : 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3cdcae24-8fbd-45aa-979b-ad9c013c82eb',
          'PPTX': 'https://docs.google.com/file/d/1TrstAIvAY0R5JIzkCcFEUNyZI1EU-QjC/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true',
   //   //     'PDF': 'lectures/CS123_10_Viewing_I_10.03.19.pdf'
        },
