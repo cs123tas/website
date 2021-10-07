@@ -102,21 +102,21 @@
     },
     {
       date: '10/7',
+      topic: 'Spatial data structures & raytracing acceleration',
+       links: {
+	// 'Recording' : 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a7d360f-2065-45b6-bb9b-ac5401583079',
+         'PPTX': 'https://docs.google.com/file/d/1TrstAIvAY0R5JIzkCcFEUNyZI1EU-QjC/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true',
+  //   //     'PDF': 'lectures/CS123_10_Viewing_I_10.03.19.pdf'
+       },
+      related: []
+    },
+    {
+      date: '10/12',
       topic: 'Surface parameterization & texture mapping',
   //      links: {
 	// 'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e79ad8a-45fb-468b-b923-ac4d0156b213',
   //        'PPTX': 'https://drive.google.com/file/d/1TU-IHlTlP173Yh00EvOLwp5gGE_3_Els/view?usp=sharing',
   //   //     'PDF': 'lectures/CS123_09_Image_Processing_IV_10.01.19.pdf'
-  //      },
-      related: []
-    },
-    {
-      date: '10/12',
-      topic: 'Spatial data structures & raytracing acceleration',
-  //      links: {
-	// 'Recording' : 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a7d360f-2065-45b6-bb9b-ac5401583079',
-  //        'PPTX': 'https://drive.google.com/file/d/1bRU833ysCM_tjaWBRNV4Ove45LyxYQib/view?usp=sharing',
-  //   //     'PDF': 'lectures/CS123_10_Viewing_I_10.03.19.pdf'
   //      },
       related: []
     },
