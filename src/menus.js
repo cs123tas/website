@@ -135,6 +135,7 @@ window.menus = {
 				},
 				{
 					item: localize("&Intersect"),
+					action: ()=> { window.open("/handouts/intersect/intersect_algo_solutions.pdf") },
 					//shortcut: "Ctrl+I",
 					enabled: true,
 					description: localize("Open Intersect Assignment."),
