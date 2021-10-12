@@ -114,7 +114,7 @@
       date: '10/12',
       topic: 'Surface parameterization & texture mapping',
        links: {
-	// 'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e79ad8a-45fb-468b-b923-ac4d0156b213',
+	'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9115f210-524a-4dc6-a5c6-ad9c013c8308',
          'PPTX': 'https://docs.google.com/file/d/1TrgJZQkmuk5rD9wP7uwV5dhLyEmcnc6i/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true',
     //     'PDF': 'lectures/CS123_09_Image_Processing_IV_10.01.19.pdf'
        },
