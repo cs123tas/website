@@ -37,7 +37,7 @@
     },
     {
       name: '2D OpenGL',
-      // link: 'https://docs.google.com/document/d/1gMoCA7Me50Za5_iu_7glBvh6iVqP54wIIa1oMf_4JQI/edit?usp=sharing',
+      link: 'https://github.com/cs123tas/labs/tree/master/lab05',
       image: 'img/labs/lab05.png',
       desc: 'In this lab, you will learn about the basics of creating 2D graphics in OpenGL, including vertex arrays and vertex buffer objects.'
     },
