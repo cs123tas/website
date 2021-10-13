@@ -123,9 +123,9 @@
     {
       date: '10/14',
       topic: 'Real-time graphics I: Intro',
-      //  links: {
-      //    'PPTX': 'https://drive.google.com/file/d/1L-a3_Rw05NhTD6JXQetBiRllymSUbXaM/view?usp=sharing',
-      //  },
+       links: {
+         'PPTX': 'https://docs.google.com/file/d/1Tst6P1M9DrCr5v6nDof3nCffNBNT-AvR/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true',
+       },
       related: []
     },
     {
