@@ -124,6 +124,7 @@
       date: '10/14',
       topic: 'Real-time graphics I: Intro',
        links: {
+         'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9d7a57ce-566f-434e-90b8-ad9c013c832c',
          'PPTX': 'https://docs.google.com/file/d/1Tst6P1M9DrCr5v6nDof3nCffNBNT-AvR/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true',
        },
       related: []
