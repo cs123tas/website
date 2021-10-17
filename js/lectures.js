@@ -132,10 +132,10 @@
     {
       date: '10/19',
       topic: 'Real-time graphics II: Projection, clipping',
-    //    links: {
-    // //     'PPTX': 'https://drive.google.com/file/d/1nIFszEzI7Oif9Srxh4HOS-QwjDSCjAiO/view?usp=sharing',
-    //      'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=27f22133-b07e-465e-a959-ac590158054d'
-    //    },
+       links: {
+         //      'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=27f22133-b07e-465e-a959-ac590158054d'
+        'PPTX': 'https://docs.google.com/file/d/1TxAbpQCXZInXTKxInfkIZXAt67_hjTKt/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true',
+       },
       //  related: [
       //    {
       //      name: 'BALSA Clipping',
