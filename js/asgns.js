@@ -109,15 +109,15 @@ var CURRYEAR = '2020';
     },
     {
       name: 'Ray',
-      // link:  'handouts/ray/ray_asgn.pdf',
+      link:  'handouts/ray/ray_asgn.pdf',
       image: 'img/projects/ray.gif',
       out: {
         day: 'Tues',
-        date: '10/19'
+        date: '10/18'
       },
       due: {
           day: 'Tues',
-          date: '11/2',
+          date: '11/1',
           time: '10:00PM',
       },
   //     gearup: {
@@ -135,13 +135,13 @@ var CURRYEAR = '2020';
 	// text: 'Gear-up Recording'
 	// },
 
-  //     algo: {
-  //        link: 'handouts/ray/ray_algo.pdf',
-  //        day: 'Monday',
-  //        date: '11/16',
-  //        time: '12:00PM',
-  //        solutions: 'handouts/ray/ray_algo_solutions-locked.pdf'
-  //      },
+      algo: {
+         link: 'handouts/ray/ray_algo.pdf',
+         day: 'Monday',
+         date: '11/16',
+         time: '12:00PM',
+   //      solutions: 'handouts/ray/ray_algo_solutions-locked.pdf'
+       },
       desc: 'In this assignment, you will extend the basic renderer your wrote in Intersect to support reflections, shadows, texture mapping, and a plethora of other more complicated rendering techniques. At the end of this assignment, you will have written a fully functioning recursive ray tracer.'
     },
     {
