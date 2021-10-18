@@ -98,7 +98,7 @@ window.menus = {
 		{
 			item: localize("&Ray"),
 			action: ()=> { window.open("https://csci1230.graphics/handouts/ray/ray_algo.pdf") },
-			enabled: false,
+			enabled: true,
 			description: localize("Open Ray Assignment."),
 		},
 		{
@@ -188,7 +188,7 @@ window.menus = {
 			item: localize("&Ray"),
 			//shortcut: "Ctrl+E",
 			action: ()=> { window.open("https://github.com/cs123tas/projects/blob/master/scenegraph/ray.md") },
-			enabled: false,
+			enabled: true,
 			description: localize("Open Ray Assignment."),
 		},
 		{
