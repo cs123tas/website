@@ -252,7 +252,8 @@ window.menus = {
 		},
 		{
 			item: localize("&3D OpenGL"),
-			enabled: false,
+			enabled: true,
+			action: () => { window.open("https://github.com/cs123tas/labs/tree/master/lab06") },
 			description: localize("Open 3D OpenGL lab."),
 		},
 		{

@@ -43,7 +43,7 @@
     },
     {
       name: '3D OpenGL',
-      // link: 'https://docs.google.com/document/d/1sDlJIZep0EFZJYTcWjVNroja0HgAM-hDEmO8S2mC1fs/edit?usp=sharing',
+      link: 'https://github.com/cs123tas/labs/tree/master/lab06',
       image: 'img/labs/lab06.png',
       desc: 'In this lab, you will learn the basics of creating 3D graphics in OpenGL. The lab culminates in a program which draws a 3D scene with moving shapes.'
     },
