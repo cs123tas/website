@@ -146,11 +146,10 @@
     {
       date: '10/21',
       topic: 'Real-time graphics III: Rasterization, visible surface determination',
-  //      links: {
-  //  //      'PPTX': 'lectures/CS123_16_Visible_Surface_Determination_10.17.19.pptx',
+       links: {
   //        'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0403b3ef-0c78-440f-a7f5-ac5b0152edeb',
-	//  'PPTX': 'https://drive.google.com/file/d/1-ezbO_gcpm-1eQb-uU0vSDZSVrp57mlw/view?usp=sharing'
-  //      },
+	 'PPTX': 'https://docs.google.com/file/d/1TzC9TUUeAdATOyqxp2PBrvCVSrVkXbJV/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true'
+       },
       related: []
     },
     {
