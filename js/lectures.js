@@ -147,7 +147,7 @@
       date: '10/21',
       topic: 'Real-time graphics III: Rasterization, visible surface determination',
        links: {
-  //        'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0403b3ef-0c78-440f-a7f5-ac5b0152edeb',
+         'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca072d60-00ed-4cb4-89af-ad9c013c835d',
 	 'PPTX': 'https://docs.google.com/file/d/1TzC9TUUeAdATOyqxp2PBrvCVSrVkXbJV/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true'
        },
       related: []
