@@ -118,7 +118,7 @@ var CURRYEAR = '2020';
       due: {
           day: 'Tues',
           date: '11/1',
-          time: '10:00PM',
+          time: '11:59PM',
       },
   //     gearup: {
   //         day: 'Monday',
@@ -137,9 +137,9 @@ var CURRYEAR = '2020';
 
       algo: {
          link: 'handouts/ray/ray_algo.pdf',
-         day: 'Monday',
-         date: '11/16',
-         time: '12:00PM',
+         day: 'Friday',
+         date: '10/22',
+         time: '11:59PM',
    //      solutions: 'handouts/ray/ray_algo_solutions-locked.pdf'
        },
       desc: 'In this assignment, you will extend the basic renderer your wrote in Intersect to support reflections, shadows, texture mapping, and a plethora of other more complicated rendering techniques. At the end of this assignment, you will have written a fully functioning recursive ray tracer.'
@@ -155,20 +155,13 @@ var CURRYEAR = '2020';
       due: {
           day: 'Thurs',
           date: '11/11',
-          time: '10:00PM',
+          time: '11:59PM',
       },
   //     gearup: {
   //         day: 'Friday',
   //         date: '10/23',
   //         time: '3:30PM',
   //         link: 'https://docs.google.com/presentation/d/140k-4fRruRTjwVrppOhQfH89bur7PvuvWRDOQgWbZUk/edit?usp=sharing'
-  //     },
-  //     algo: {
-  //         day: 'Thurs',
-  //         date: '10/22',
-  //         time: '6:00PM',
-  //         link: 'handouts/sceneview/sceneview_algo.pdf',
-  //         solutions: 'handouts/sceneview/sceneview_algo_solutions-locked.pdf'
   //     },
 	// algohours:{
 	//  link: 'https://brown.zoom.us/rec/share/mtIojWiO3GQylh43Fo9R5eaturkdsyD8yJAjb6agcnl8P8OaMU841JvL1t3VyFwz.8w0kFc0xPZOIyJjV',
@@ -195,7 +188,7 @@ var CURRYEAR = '2020';
       due: {
           day: 'Weds',
           date: '11/24',
-          time: '10:00PM',
+          time: '11:59PM',
       },
   //     gearup: {
   //         day: 'Friday',
@@ -205,8 +198,8 @@ var CURRYEAR = '2020';
   //     },
   //     algo: {
   //       day: 'Friday',
-  //       date: '10/9',
-  //       time: '12:00PM',
+  //       date: '11/14',
+  //       time: '11:59PM',
   //       link: 'handouts/filter/filter_algo.pdf',
   //       solutions: 'handouts/filter/filter_algo_solutions-locked.pdf'
   //     },
