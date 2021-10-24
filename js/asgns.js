@@ -117,7 +117,7 @@ var CURRYEAR = '2020';
       },
       due: {
           day: 'Tues',
-          date: '11/1',
+          date: '11/2',
           time: '11:59PM',
       },
   //     gearup: {
