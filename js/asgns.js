@@ -103,6 +103,7 @@ var CURRYEAR = '2020';
          day: 'Fri',
          date: '10/8',
          time: '6:00PM',
+	 link: 'handouts/intersect/intersect_algo.pdf',
          solutions: 'handouts/intersect/intersect_algo_solutions.pdf'
        },
       desc: 'In this assignment, you will begin to write to your own rendering engine (to e.g. render your shapes from the Shapes assignment). You will shoot out rays from the eye of a camera and calculate intersections with primitives in a scene using their implicit equations. This will be the first step in writing a full fledged ray tracer. This project relies on the Shape assignment.'
@@ -140,7 +141,8 @@ var CURRYEAR = '2020';
          day: 'Friday',
          date: '10/22',
          time: '11:59PM',
-        solutions: 'handouts/ray/ray_algo_solutions.pdf'
+	 link: 'handouts/ray/ray_algo.pdf',   
+         solutions: 'handouts/ray/ray_algo_solutions.pdf'
        },
       desc: 'In this assignment, you will extend the basic renderer your wrote in Intersect to support reflections, shadows, texture mapping, and a plethora of other more complicated rendering techniques. At the end of this assignment, you will have written a fully functioning recursive ray tracer.'
     },
