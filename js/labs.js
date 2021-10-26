@@ -49,14 +49,7 @@
     },
     {
       name: 'Camtrans',
-      // link: 'https://docs.google.com/document/d/1KA_kM5jxh9a19KNii5aB6sTUlh_z-TISUWowjVCdX0s/edit?usp=sharing',
-      // algo: {
-      //     day: 'Monday',
-      //     date: '10/19',
-      //     time: '6:00PM',
-      //     link: 'handouts/camtrans/camtrans_algo.pdf',
-      //     solutions: 'handouts/camtrans/camtrans_algo_solutions-locked.pdf'
-      //   },
+      link: 'https://github.com/cs123tas/labs/tree/master/lab07',
       image: 'img/labs/lab07.gif',
       desc: 'In this lab, you will create your own virtual camera. This camera will use various viewing properties to produce a transformation matrix to display 3D graphics on our 2D output devices. The code written in this lab will be used in the Sceneview assignment.'
     },
