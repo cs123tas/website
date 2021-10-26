@@ -156,7 +156,7 @@
       date: '10/26',
       topic: 'Advanced real-time graphics: mapping, deferred rendering, RTX',
        links: {
-      //    'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7cfddc46-10d3-4877-a3a2-ac6001588e37',
+         'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a261547-5c21-4e3c-a1a3-ad9c013c8375',
          'PPTX': 'https://docs.google.com/file/d/1U5X2FQTDNI0dgtz0o-d5fN1SxhCgn0av/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true'
        },
       related: []
