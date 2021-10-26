@@ -142,8 +142,9 @@ window.menus = {
 				},
 				{
 					item: localize("&Ray"),
+					action: ()=> { window.open("/handouts/ray/ray_algo_solutions.pdf") },
 					//shortcut: "Ctrl+E",
-					enabled: false,
+					enabled: true,
 					description: localize("Open Ray Assignment."),
 				},
 				{
