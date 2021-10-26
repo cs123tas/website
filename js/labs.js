@@ -49,7 +49,7 @@
     },
     {
       name: 'Camtrans',
-      //link: 'https://github.com/cs123tas/labs/tree/master/lab07',
+      link: 'https://github.com/cs123tas/labs/tree/master/lab07',
       image: 'img/labs/lab07.gif',
       desc: 'In this lab, you will create your own virtual camera. This camera will use various viewing properties to produce a transformation matrix to display 3D graphics on our 2D output devices. The code written in this lab will be used in the Sceneview assignment.'
     },

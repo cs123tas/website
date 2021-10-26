@@ -259,8 +259,8 @@ window.menus = {
 		},
 		{
 			item: localize("&Camtrans"),
-			enabled: false,
-			//action: () => { window.open("https://github.com/cs123tas/labs/tree/master/lab07") },
+			enabled: true,
+			action: () => { window.open("https://github.com/cs123tas/labs/tree/master/lab07") },
 			description: localize("Open Camtrans lab."),
 		},
 		
