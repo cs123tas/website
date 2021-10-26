@@ -102,12 +102,6 @@ window.menus = {
 			description: localize("Open Ray Assignment."),
 		},
 		{
-			item: localize("&Camtrans"),
-			//action: ()=> { window.open("https://csci1230.graphics/handouts/camtrans/camtrans_algo.pdf") },
-			enabled: false,
-			description: localize("Open Camtrans Assignment."),
-		},
-		{
 			item: localize("&Sceneview"),
 			enabled: false,
 			description: localize("Open Sceneview Assignment."),
@@ -152,13 +146,6 @@ window.menus = {
 					//shortcut: "Ctrl+E",
 					enabled: true,
 					description: localize("Open Ray Assignment."),
-				},
-				{
-					item: localize("&Camtrans"),
-					//action: ()=> { window.open("/handouts/ray/ray_algo_solutions.pdf") },
-					//shortcut: "Ctrl+E",
-					enabled: false,
-					description: localize("Open Camtrans Assignment."),
 				},
 				{
 					item: localize("&Sceneview"),
