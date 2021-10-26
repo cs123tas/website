@@ -263,6 +263,7 @@ window.menus = {
 			action: () => { window.open("https://github.com/cs123tas/labs/tree/master/lab07") },
 			description: localize("Open Camtrans lab."),
 		},
+		
 		{
 			item: localize("&FBOs"),
 			enabled: false,
