@@ -164,10 +164,10 @@
     {
       date: '10/28',
       topic: 'Advanced real-time graphics (continued)',
-      //  links: {
-      //    'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7b1deed5-a838-4f87-acdf-ac620156b25f',
+       links: {
+         'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8955b257-939c-4ff8-9aa3-ad9c013c838f',
       //    'PPTX': 'https://drive.google.com/file/d/1x0A7PiIAE2slAi509eulE1hGlonKks5H/view?usp=sharing'
-      //  },
+       },
       related: []
     },
     {
