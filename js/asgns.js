@@ -110,7 +110,7 @@ var CURRYEAR = '2020';
     },
     {
       name: 'Ray',
-      link:  'handouts/ray/ray_asgn.pdf',
+      link:  'https://github.com/cs123tas/projects/blob/master/scenegraph/ray.md',
       image: 'img/projects/ray.gif',
       out: {
         day: 'Tues',
