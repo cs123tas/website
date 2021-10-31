@@ -266,7 +266,7 @@ window.menus = {
 		
 		{
 			item: localize("&FBOs"),
-			enabled: false,
+			enabled: true,
 			action: () => { window.open("https://github.com/cs123tas/labs/blob/master/lab08") },
 			description: localize("Open FBOs lab."),
 		},
