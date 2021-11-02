@@ -195,7 +195,7 @@ window.menus = {
 		{
 			item: localize("&Sceneview"),
 			action: ()=> { window.open("https://github.com/cs123tas/projects/blob/master/scenegraph/Sceneview.md") },
-			enabled: false,
+			enabled: true,
 			description: localize("Open Sceneview Assignment."),
 		},
 		{
