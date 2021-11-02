@@ -173,10 +173,10 @@
     {
       date: '11/2',
       topic: 'Creating (non-)photorealistic graphics',
-  //      links: {
+       links: {
 	// 'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00602992-24e3-435a-b16f-ac67016b8301',
-  //        'PPTX': 'https://drive.google.com/file/d/1HexdiN1iWGNzutB874x7s-YKjTnbejT3/view?usp=sharing',
-  //      },
+         'PPTX': 'https://docs.google.com/file/d/1UBAzYFIr57b6EjhuRk8V7yEROhg8Zncy/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true',
+       },
       related: []
     },
     {
