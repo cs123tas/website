@@ -101,11 +101,11 @@ window.menus = {
 			enabled: true,
 			description: localize("Open Ray Assignment."),
 		},
-		{
-			item: localize("&Sceneview"),
-			enabled: false,
-			description: localize("Open Sceneview Assignment."),
-		},
+		// {
+		// 	item: localize("&Sceneview"),
+		// 	enabled: false,
+		// 	description: localize("Open Sceneview Assignment."),
+		// },
 		{
 			item: localize("&Filter"),
 			enabled: false,
@@ -147,11 +147,11 @@ window.menus = {
 					enabled: true,
 					description: localize("Open Ray Assignment."),
 				},
-				{
-					item: localize("&Sceneview"),
-					enabled: false,
-					description: localize("Open Sceneview Assignment."),
-				},
+				// {
+				// 	item: localize("&Sceneview"),
+				// 	enabled: false,
+				// 	description: localize("Open Sceneview Assignment."),
+				// },
 				{
 					item: localize("&Filter"),
 					enabled: false,
@@ -194,6 +194,7 @@ window.menus = {
 		},
 		{
 			item: localize("&Sceneview"),
+			action: ()=> { window.open("https://github.com/cs123tas/projects/blob/master/scenegraph/Sceneview.md") },
 			enabled: false,
 			description: localize("Open Sceneview Assignment."),
 		},

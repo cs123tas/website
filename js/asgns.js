@@ -148,7 +148,7 @@ var CURRYEAR = '2020';
     },
     {
       name: 'Sceneview',
-      // link: 'handouts/sceneview/sceneview_asgn.pdf',
+      link: 'https://github.com/cs123tas/projects/blob/master/scenegraph/Sceneview.md',
       image: 'img/projects/sceneview.gif',
       out: {
         day: 'Tues',
