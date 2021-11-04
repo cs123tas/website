@@ -183,7 +183,7 @@
       date: '11/4',
       topic: 'The final project (and project ideas)',
        links: {
-  // 'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=727ddeca-6b4f-401d-9380-ac690171a6e7',
+        'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=084e20f7-6011-4c94-b77c-ad9c013c83c5',
          'PPTX': 'https://docs.google.com/file/d/1UF7uc9aOyObL6PhbOv_q-5nVxQ9GpbtV/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true',
        },
       related: []
