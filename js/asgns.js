@@ -217,7 +217,7 @@ var CURRYEAR = '2020';
     },
     {
       name: 'Final',
-      // link: 'handouts/final/final_asgn.pdf',
+      link: 'https://github.com/cs123tas/final-stencil/blob/master/README.md',
       image: 'img/projects/final_video.gif',
       icon: 'img/projects/final_icon.gif',
   //      gearup: {

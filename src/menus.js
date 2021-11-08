@@ -205,7 +205,8 @@ window.menus = {
 		},
 		{
 			item: localize("&Final"),
-			enabled: false,
+			action: ()=> {window.open("https://github.com/cs123tas/final-stencil/blob/master/README.md") },
+			enabled: true,
 			description: localize("Open Final Project."),
 		},
 		MENU_DIVIDER,
