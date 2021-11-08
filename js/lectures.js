@@ -190,16 +190,16 @@
     },
     {
       date: '11/9',
-      topic: 'Image Processing I',
-      //  links: {
+      topic: 'Image Processing I: Introduction',
+       links: {
       //    'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ab9f9eae-f920-4b14-9f27-ac6e016e4b6c',
-      //    'PPTX': 'https://drive.google.com/file/d/1eFEnWUgoxpfsqtyBYIM3KiSF88w4ft1g/view?usp=sharing'
-      //  },
+         'PPTX': 'https://docs.google.com/file/d/1UIapqZIjpvJSr8fTdMPVLYboEw6CzFkY/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true'
+       },
       related: []
     },
     {
       date: '11/11',
-      topic: 'Image Processing II',
+      topic: 'Image Processing II: Sampling, Reconstruction, & Anti-aliasing',
       //  links: {
       //    'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62d25e7e-1787-4a14-9ffd-ac70015ef996',
       //    'PPTX': 'https://drive.google.com/file/d/1VL7xPq0bWv9_2L5_dV4mRbn7EiiC-Nu3/view?usp=sharing'
@@ -208,7 +208,7 @@
     },
     {
       date: '11/16',
-      topic: 'Image Processing III',
+      topic: 'Image Processing III: Geometric Transformations',
     //    links: {
 	  //  'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8762be2-7b2b-44ed-bee5-ac7501645eae',
     //        'PPTX': 'https://drive.google.com/file/d/1eOJJwyraXa2bCkLTRasBK8rsM9HViMhA/view?usp=sharing',
