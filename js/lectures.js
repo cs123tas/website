@@ -192,7 +192,7 @@
       date: '11/9',
       topic: 'Image Processing I: Introduction',
        links: {
-      //    'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ab9f9eae-f920-4b14-9f27-ac6e016e4b6c',
+         'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ff3df2a-fdc9-4739-bff1-ad9c013c83dd',
          'PPTX': 'https://docs.google.com/file/d/1UIapqZIjpvJSr8fTdMPVLYboEw6CzFkY/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true'
        },
       related: []
