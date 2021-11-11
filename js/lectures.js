@@ -201,7 +201,7 @@
       date: '11/11',
       topic: 'Image Processing II: Sampling, Reconstruction, & Anti-aliasing',
        links: {
-      //    'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62d25e7e-1787-4a14-9ffd-ac70015ef996',
+         'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ace00563-5b3b-4be6-9f24-ad9c013c83f9',
          'PPTX': 'https://docs.google.com/file/d/1UHf5BM_JjMYvRyRYabMWyNk0xV2jsD2g/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true'
        },
       related: []
