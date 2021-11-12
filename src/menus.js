@@ -201,6 +201,7 @@ window.menus = {
 		},
 		{
 			item: localize("&Filter"),
+			action: ()=> { window.open("https://github.com/cs123tas/projects/blob/master/filter/README.md") },
 			enabled: true,
 			description: localize("Open Filter Assignment."),
 		},
