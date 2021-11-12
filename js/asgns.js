@@ -198,13 +198,13 @@ var CURRYEAR = '2020';
   //         time: '6:00PM',
   //         link: 'https://docs.google.com/presentation/d/1HJEjYsm4uDgYW5AuZnjHFzgtNGI2kHNIBsZJ9Tr4prE/edit?usp=sharing'
   //     },
-  //     algo: {
-  //       day: 'Friday',
-  //       date: '11/14',
-  //       time: '11:59PM',
-  //       link: 'handouts/filter/filter_algo.pdf',
-  //       solutions: 'handouts/filter/filter_algo_solutions-locked.pdf'
-  //     },
+      algo: {
+        day: 'Sunday',
+        date: '11/14',
+        time: '11:59PM',
+        link: 'handouts/filter/filter_algo.pdf',
+        // solutions: 'handouts/filter/filter_algo_solutions-locked.pdf'
+      },
 	// recording: {
 	// link: 'https://brown.zoom.us/rec/share/vG5rLO9uHecXzpi_i714sCYUtbNTdOL4fqR_lv5wz7NkeSH3PBD1KttKL920eBs.HX-HYYQXfcfZrNTX',
 	// text: 'Filter Gear Up Recording'

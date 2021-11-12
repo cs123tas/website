@@ -79,25 +79,25 @@ window.menus = {
 		// @TODO: speech recognition: terms that apply to selection
 		{
 			item: localize("&Brush"),
-			action: ()=> { window.open("https://csci1230.graphics/handouts/brush/brush_algo.pdf") },
+			action: ()=> { window.open("handouts/brush/brush_algo.pdf") },
 			enabled: true,
 			description: localize("Open Brush Assignment."),
 		},
 		{
 			item: localize("&Shapes"),
-			action: ()=> { window.open("https://csci1230.graphics/handouts/shapes/shapes_algo.pdf") },
+			action: ()=> { window.open("handouts/shapes/shapes_algo.pdf") },
 			enabled: true,
 			description: localize("Open Shapes Assignment."),
 		},
 		{
 			item: localize("&Intersect"),
-			action: ()=> { window.open("https://csci1230.graphics/handouts/intersect/intersect_algo.pdf") },
+			action: ()=> { window.open("handouts/intersect/intersect_algo.pdf") },
 			enabled: true,
 			description: localize("Open Intersect Assignment."),
 		},
 		{
 			item: localize("&Ray"),
-			action: ()=> { window.open("https://csci1230.graphics/handouts/ray/ray_algo.pdf") },
+			action: ()=> { window.open("handouts/ray/ray_algo.pdf") },
 			enabled: true,
 			description: localize("Open Ray Assignment."),
 		},
@@ -108,7 +108,8 @@ window.menus = {
 		// },
 		{
 			item: localize("&Filter"),
-			enabled: false,
+			action: ()=> { window.open("handouts/filter/filter_algo.pdf") },
+			enabled: true,
 			description: localize("Open Filter Assignment."),
 		},
 		{
