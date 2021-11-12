@@ -155,7 +155,7 @@ window.menus = {
 				// },
 				{
 					item: localize("&Filter"),
-					enabled: true,
+					enabled: false,
 					description: localize("Open Filter Assignment."),
 				},
 				{
@@ -201,7 +201,7 @@ window.menus = {
 		},
 		{
 			item: localize("&Filter"),
-			enabled: false,
+			enabled: true,
 			description: localize("Open Filter Assignment."),
 		},
 		{
