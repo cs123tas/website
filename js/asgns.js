@@ -181,15 +181,15 @@ var CURRYEAR = '2020';
     },
     {
       name: 'Filter',
-      // link: 'handouts/filter/filter_asgn.pdf',
+      link: 'https://github.com/cs123tas/projects/blob/master/filter/README.md',
       image: 'img/projects/filter.png',
       out: {
         day: 'Thurs',
         date: '11/11'
       },
       due: {
-          day: 'Weds',
-          date: '11/24',
+          day: 'Tues',
+          date: '11/23',
           time: '11:59PM',
       },
   //     gearup: {
