@@ -155,7 +155,7 @@ window.menus = {
 				// },
 				{
 					item: localize("&Filter"),
-					enabled: false,
+					enabled: true,
 					description: localize("Open Filter Assignment."),
 				},
 				{
