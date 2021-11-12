@@ -199,8 +199,8 @@ var CURRYEAR = '2020';
   //         link: 'https://docs.google.com/presentation/d/1HJEjYsm4uDgYW5AuZnjHFzgtNGI2kHNIBsZJ9Tr4prE/edit?usp=sharing'
   //     },
       algo: {
-        day: 'Sunday',
-        date: '11/14',
+        day: 'Weds',
+        date: '11/17',
         time: '11:59PM',
         link: 'handouts/filter/filter_algo.pdf',
         // solutions: 'handouts/filter/filter_algo_solutions-locked.pdf'
