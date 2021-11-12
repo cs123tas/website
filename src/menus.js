@@ -272,14 +272,15 @@ window.menus = {
 			action: () => { window.open("https://github.com/cs123tas/labs/blob/master/lab08") },
 			description: localize("Open FBOs lab."),
 		},
-		{
-			item: localize("&Particles"),
-			enabled: false,
-			description: localize("Open Particles lab."),
-		},
+		//{
+		//	item: localize("&Particles"),
+		//	enabled: false,
+		//	description: localize("Open Particles lab."),
+		//},
 		{
 			item: localize("&Filter"),
-			enabled: false,
+			enabled: true,
+			action: () => { window.open("https://github.com/cs123tas/labs/tree/master/lab09") },
 			description: localize("Open Filter lab."),
 		},
 		{

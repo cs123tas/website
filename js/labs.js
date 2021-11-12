@@ -55,19 +55,19 @@
     },
     {
       name: 'FBOs',
-      // link: 'https://docs.google.com/document/d/1hTZopIDd5vEYaPJ8ZHV5WAz6BuK7fci4pImI7a91C64/edit?usp=sharing',
+      link: 'https://github.com/cs123tas/labs/tree/master/lab08',
       image: 'img/labs/lab08.png',
       desc: 'In this lab you will learn how to render to a frame buffer object, which opens up many possibilities for doing cool things with OpenGL.'
     },
-    {
-      name: 'Particles',
+    //{
+      //name: 'Particles',
       // link: 'https://docs.google.com/document/d/15-t3gW92x6Zjo8pfjIlpE8s22-kKli6aEh6WtpVD3EU/edit?usp=sharing',
-      image: 'img/labs/lab09.png',
-      desc: 'OpenGL can be used to render to a texture rather than a display. In this lab, you will use this functionality to create cool particle effects.'
-    },
+      //image: 'img/labs/lab09.png',
+      //desc: 'OpenGL can be used to render to a texture rather than a display. In this lab, you will use this functionality to create cool particle effects.'
+    //},
     {
       name: 'Filter',
-      // link: 'https://docs.google.com/document/d/1T1Y3yKudT4Yomw-ZR-44AeNkxTC_DnD-M5pFSCjdkFM/edit?usp=sharing',
+      link: 'https://github.com/cs123tas/labs/tree/master/lab09',
       image: 'img/labs/lab10.png',
       desc: 'In this lab, you will begin your Filter project and learn how to implement a grayscale and invert filter.'
     },
