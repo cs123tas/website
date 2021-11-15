@@ -286,6 +286,12 @@ window.menus = {
 			description: localize("Open Filter lab."),
 		},
 		{
+			item: localize("&Particles"),
+			enabled: true,
+			action: () => { window.open("https://github.com/cs123tas/labs/blob/master/particles") },
+			description: localize("Open Filter lab."),
+		},
+		{
 			item: localize("&Dielectric Materials (Metal & Glass)"),
 			enabled: false,
 			description: localize("Open Dielectric Materials (Metal & Glass) lab."),
