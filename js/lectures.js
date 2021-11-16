@@ -210,7 +210,7 @@
       date: '11/16',
       topic: 'Image Processing III: Geometric Transformations',
        links: {
-	  //  'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8762be2-7b2b-44ed-bee5-ac7501645eae',
+	        'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aafc31b3-bc10-490c-a526-ad9c013c8413',
            'PPTX': 'https://docs.google.com/file/d/1S-ReTNHB3p9SH9wPf64u7JRaEb4htkun/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true',
        },
       related: []
