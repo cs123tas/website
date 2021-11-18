@@ -219,8 +219,8 @@
       date: '11/18',
       topic: 'Perception & Color',
        links: {
+        'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5428c15c-ca32-4b87-99e2-ad9c013c842e',
          'PPTX': 'https://docs.google.com/file/d/1lijXFJQJlbM_8oZhyjkYRLeF57Zsn22Y/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true'
-	  //  'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b27d8cf7-7af6-4425-8570-ac77017565eb',
     //        'DOC': 'https://docs.google.com/document/d/1QmPmCTEL7LILaOMah7qwYOhR4eN61GzWyNmdb66MYuY/edit?usp=sharing',
 	  //  'Lecture Notes' : 'ShaderDebugging.md.html'
        },
