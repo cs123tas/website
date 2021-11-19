@@ -203,7 +203,7 @@ var CURRYEAR = '2020';
         date: '11/17',
         time: '11:59PM',
         link: 'handouts/filter/filter_algo.pdf',
-        // solutions: 'handouts/filter/filter_algo_solutions-locked.pdf'
+         solutions: 'handouts/filter/filter_algo_solutions.pdf'
       },
 	// recording: {
 	// link: 'https://brown.zoom.us/rec/share/vG5rLO9uHecXzpi_i714sCYUtbNTdOL4fqR_lv5wz7NkeSH3PBD1KttKL920eBs.HX-HYYQXfcfZrNTX',
