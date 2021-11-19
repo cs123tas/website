@@ -155,7 +155,8 @@ window.menus = {
 				// },
 				{
 					item: localize("&Filter"),
-					enabled: false,
+					action: ()=> { window.open("/handouts/filter/filter_algo_solutions.pdf") },
+					enabled: true,
 					description: localize("Open Filter Assignment."),
 				},
 				{
