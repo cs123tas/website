@@ -294,7 +294,8 @@ window.menus = {
 		},
 		{
 			item: localize("&Dielectric Materials (Metal & Glass)"),
-			enabled: false,
+			enabled: true,
+			action: () => { window.open("https://github.com/cs123tas/labs/tree/master/lab11") },
 			description: localize("Open Dielectric Materials (Metal & Glass) lab."),
 		},
 		{
