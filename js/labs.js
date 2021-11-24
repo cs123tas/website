@@ -73,9 +73,9 @@
     },
     {
       name: 'Dielectric Materials (Metal & Glass)',
-      // link: 'https://docs.google.com/document/d/1atftCWHTMR1BO2OBwxdV2_HObAg7fwjfGvfQZijWvzM/edit?usp=sharing',
+      link: 'https://github.com/cs123tas/labs/tree/master/lab11',
       image: 'img/labs/lab11.png',
-      desc: 'In this lab, you will implement the Cook-Torrance lighting model using Fresnel\'s equations for reflection and refraction. You will write a glass shader and a metal shader, either in GLSL or as extensions to your ray tracer.'
+      desc: 'In this lab, you will implement the Cook-Torrance lighting model using Fresnel\'s equations for reflection and refraction. You will write a glass shader and a metal shader in GLSL.'
     },
     {
       name: 'Raymarching',
