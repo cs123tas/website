@@ -79,9 +79,9 @@
     },
     {
       name: 'Raymarching',
-      // link: 'https://docs.google.com/document/d/1GqUs3LaikKoplndlAxvHBfVx8RecMMDykpp1C6KKAAI/edit?usp=sharing',
+      link: 'https://github.com/cs123tas/labs/blob/lab10/lab10/lab10.md',
       image: 'img/labs/lab12.png',
-      desc: 'In this lab, you will implement the ray marching method for rendering complex scenes defined with implicit equations. This can be an extension of your raytracer, or you can implement it using GLSL using the Shadertoy platform.'
+      desc: 'In this lab, you will implement the ray marching method for rendering complex scenes defined with implicit equations. You will implement it using GLSL using the Shadertoy platform.'
     },
     // {
     //   name: 'Color',
