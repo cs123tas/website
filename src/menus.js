@@ -299,7 +299,7 @@ window.menus = {
 			description: localize("Open Dielectric Materials (Metal & Glass) lab."),
 		},
 		{
-			item: localize("&Ray Marching"),
+			item: localize("&Raymarching"),
 			enabled: true,
 			action: () => { window.open("https://github.com/cs123tas/labs/blob/lab10/lab10/lab10.md") },
 			description: localize("Open Ray Marching lab."),
