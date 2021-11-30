@@ -237,10 +237,10 @@
     {
       date: '11/30',
       topic: 'Input and Output Devices',
-      //  links: {
-      //      'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a068b077-6637-4b85-bcd0-ac83016225db',
-      //      'PPTX': 'https://drive.google.com/file/d/1QCoMxjJZ5Rn9DzUWjHvbieWYaASZilix/view?usp=sharing '
-      //  },
+       links: {
+          //  'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a068b077-6637-4b85-bcd0-ac83016225db',
+           'PPTX': 'https://docs.google.com/file/d/1XkVZDE_dNuI1RLYo7guowHWwbr-5FbnK/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true'
+       },
       related: []
     },
     {
