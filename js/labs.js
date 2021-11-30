@@ -79,7 +79,7 @@
     },
     {
       name: 'Raymarching',
-      link: 'https://github.com/cs123tas/labs/blob/lab10/lab10/lab10.md',
+      link: 'https://github.com/cs123tas/labs/blob/master/lab10/lab10.md',
       image: 'img/labs/lab12.png',
       desc: 'In this lab, you will implement the ray marching method for rendering complex scenes defined with implicit equations. You will implement it using GLSL using the Shadertoy platform.'
     },

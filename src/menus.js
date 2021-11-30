@@ -301,7 +301,7 @@ window.menus = {
 		{
 			item: localize("&Raymarching"),
 			enabled: true,
-			action: () => { window.open("https://github.com/cs123tas/labs/blob/lab10/lab10/lab10.md") },
+			action: () => { window.open("https://github.com/cs123tas/labs/blob/master/lab10/lab10.md") },
 			description: localize("Open Ray Marching lab."),
 		},
 		MENU_DIVIDER,
