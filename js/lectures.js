@@ -246,10 +246,10 @@
     {
       date: '12/2',
       topic: 'VR/AR',
-      //  links: {
-      //      'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3ce7b219-4774-4b25-a9bd-ac850167a7f5',
-      //      'PPTX': 'https://drive.google.com/file/d/1Uhfna9Zbcu1nFU2ZsCzJJUtzJ1V0Q_oz/view?usp=sharing'
-      //  },
+       links: {
+          //  'Recording': 'https://brown.hosted.p/anopto.com/Panopto/Pages/Viewer.aspx?id=3ce7b219-4774-4b25-a9bd-ac850167a7f5',
+           'PPTX': 'https://docs.google.com/file/d/17fcVVaGXgoHVWesRSByQ_sIFVg8LwJea/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true'
+       },
       related: []
     },
 
