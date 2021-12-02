@@ -247,7 +247,7 @@
       date: '12/2',
       topic: 'VR/AR',
        links: {
-          //  'Recording': 'https://brown.hosted.p/anopto.com/Panopto/Pages/Viewer.aspx?id=3ce7b219-4774-4b25-a9bd-ac850167a7f5',
+           'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f3a4a4b4-24df-45b7-8442-ad9c013c84a9',
            'PPTX': 'https://docs.google.com/file/d/17fcVVaGXgoHVWesRSByQ_sIFVg8LwJea/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true'
        },
       related: []
