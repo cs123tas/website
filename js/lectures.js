@@ -257,7 +257,7 @@
          date: '12/7',
          topic: 'Inverse graphics, differentiable rendering, and machine learning',
          links: {
-              //  'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b786a5c9-9004-4497-b87a-ac8a016ff92d',
+               'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a1cd6f6b-6d16-4187-bb77-ad9c013c84c5',
               'PPTX': 'https://docs.google.com/file/d/1ULhExXpkLW8Y4EzE049UWCO1nJ0iy9ZE/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true'
              //  'PDF': 'lectures/CS123_29_Turing_12.06.18.pdf'
          },
