@@ -269,6 +269,7 @@
       topic: 'Graphics research at Brown',
       links: {
             'Recording': 'https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=77494b00-833f-48eb-a40c-ad9c013c84e0',
+            "PPTX": "https://docs.google.com/file/d/1UNnsukGbjyAKWDqpv-w54QJ1c4Ky9l5Y/edit?usp=sharing&ouid=114892003088852070829&rtpof=true&sd=true"
      //      //  'PDF': 'lectures/CS123_29_Turing_12.06.18.pdf'
       },
  //     related: []
