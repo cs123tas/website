@@ -278,10 +278,11 @@
      {
          date: '12/16',
          topic: 'Final Project Demo Day',
-    //     links: {
+        links: {
+          'Recording': 'https://brown.zoom.us/rec/share/wGM6T1xljhLU_gIvJ2Jo6WIwPtIikXowpswLbsNSS2VHBsy9-CQIgs0YDL_R10vs.ZQtb7NLNb9d6_Z9V'
     //         //  'PPTX': 'lectures/CS123_29_Turing_12.06.18.pptx',
     //         //  'PDF': 'lectures/CS123_29_Turing_12.06.18.pdf'
-    //     },
+        },
     //     related: []
      }
 
