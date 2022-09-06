@@ -117,55 +117,55 @@ window.menus = {
 			enabled: false,
 			description: localize("Open Final Project."),
 		},
-		MENU_DIVIDER,
-		{
-			item: localize("&Solutions"),
-			submenu: [
-				{
-					item: localize("&Brush"),
-					action: ()=> { window.open("https://drive.google.com/file/d/1jwu6uOdMJ70F56dbGmcRH8AS_brJrYAn/view?usp=sharing") },
-					enabled: true,
-					description: localize("Open Brush Assignment."),
-				},
-				{
-					item: localize("&Shapes"),
-					action: ()=> { window.open("/handouts/shapes/shapes_algo_solutions.pdf") },
-					// shortcut: "Ctrl+W", // closes browser tab
-					enabled: true,
-					description: localize("Open Shapes Assignment."),
-				},
-				{
-					item: localize("&Intersect"),
-					action: ()=> { window.open("/handouts/intersect/intersect_algo_solutions.pdf") },
-					//shortcut: "Ctrl+I",
-					enabled: true,
-					description: localize("Open Intersect Assignment."),
-				},
-				{
-					item: localize("&Ray"),
-					action: ()=> { window.open("/handouts/ray/ray_algo_solutions.pdf") },
-					//shortcut: "Ctrl+E",
-					enabled: true,
-					description: localize("Open Ray Assignment."),
-				},
-				// {
-				// 	item: localize("&Sceneview"),
-				// 	enabled: false,
-				// 	description: localize("Open Sceneview Assignment."),
-				// },
-				{
-					item: localize("&Filter"),
-					action: ()=> { window.open("/handouts/filter/filter_algo_solutions.pdf") },
-					enabled: true,
-					description: localize("Open Filter Assignment."),
-				},
-				{
-					item: localize("&Final"),
-					enabled: false,
-					description: localize("Open Final Project."),
-				},
-				],
-		}
+		// MENU_DIVIDER,
+		// {
+		// 	item: localize("&Solutions"),
+		// 	submenu: [
+		// 		{
+		// 			item: localize("&Brush"),
+		// 			action: ()=> { window.open("https://drive.google.com/file/d/1jwu6uOdMJ70F56dbGmcRH8AS_brJrYAn/view?usp=sharing") },
+		// 			enabled: true,
+		// 			description: localize("Open Brush Assignment."),
+		// 		},
+		// 		{
+		// 			item: localize("&Shapes"),
+		// 			action: ()=> { window.open("/handouts/shapes/shapes_algo_solutions.pdf") },
+		// 			// shortcut: "Ctrl+W", // closes browser tab
+		// 			enabled: true,
+		// 			description: localize("Open Shapes Assignment."),
+		// 		},
+		// 		{
+		// 			item: localize("&Intersect"),
+		// 			action: ()=> { window.open("/handouts/intersect/intersect_algo_solutions.pdf") },
+		// 			//shortcut: "Ctrl+I",
+		// 			enabled: true,
+		// 			description: localize("Open Intersect Assignment."),
+		// 		},
+		// 		{
+		// 			item: localize("&Ray"),
+		// 			action: ()=> { window.open("/handouts/ray/ray_algo_solutions.pdf") },
+		// 			//shortcut: "Ctrl+E",
+		// 			enabled: true,
+		// 			description: localize("Open Ray Assignment."),
+		// 		},
+		// 		// {
+		// 		// 	item: localize("&Sceneview"),
+		// 		// 	enabled: false,
+		// 		// 	description: localize("Open Sceneview Assignment."),
+		// 		// },
+		// 		{
+		// 			item: localize("&Filter"),
+		// 			action: ()=> { window.open("/handouts/filter/filter_algo_solutions.pdf") },
+		// 			enabled: true,
+		// 			description: localize("Open Filter Assignment."),
+		// 		},
+		// 		{
+		// 			item: localize("&Final"),
+		// 			enabled: false,
+		// 			description: localize("Open Final Project."),
+		// 		},
+		// 		],
+		// }
 	],
 	[localize("&Assignments")]: [
 		// @TODO: speech recognition: terms that apply to selection
